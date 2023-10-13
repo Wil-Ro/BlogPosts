@@ -38,4 +38,5 @@ Alpine Linux was my first non-ubuntu linux experience. I really enjoyed learning
 
 Alpine essentially, from a users perspective, is made of busybox (a very basic shell that I also found runs within ubuntu after a kernel panic) and openrc which just controls how background services run. These two programs did everything I needed with openrc managing lighttpd and busybox letting me interact with the os and running a startup script for me to pull from github and rebuild/run the C++ code.
 
-
+## Fun stuff
+You can still see the first test article for this website [here](TestFullArticle.md)
