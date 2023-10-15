@@ -2,22 +2,33 @@
 # Welcome!
 I'm Rosia Evans, this is my site where I log my work for myself and for me to show to others.
 
-This site is generated procedurally from markdown though C++ code I've written and hosted using [lighttpd](https://www.lighttpd.net/) on an old laptop through my router. You can find the code for it [here](https://github.com/Wil-Ro/Blog) and a more indepth talk about it on [this blog post](/ThisSite.html).
-_______
-I'm currently studying at a small university in wales where I'm doing a BEng in software engineering whilst working on robotics and exploring my own interests on the side through various societies and personal projects.
+This site is generated procedurally from markdown though C++ code I've written and hosted using [lighttpd](https://www.lighttpd.net/) on an old laptop through my router. You can find the code for it [here](https://github.com/Wil-Ro/Blog) and a more indepth talk about it [here](/ThisSite.html).
 
+## Who I am
 
-<img src="profile.jpeg" alt="image of me" style="width:50%">
+<img src="profile.jpeg" alt="image of me" style="width:50%;">
 
-Nowadays my interests lie mostly in low-power computing and electronics, experimenting with how computers can work in a more environmentally friendly manner. I find the environment is something I think about a lot and finding overlaps between it and my interests in computing has lead me to some really intersting communities.
+I'm a software engineering student currently studying at a small university in wales whilst teaching myself robotics
+and exploring my own interests on the side including:
 
-On the side of this I also enjoy using code to create music through programming using [Sonic-Pi](https://sonic-pi.net/) and just creating programs in general with friends and colleagues. Most of my work can either be found in blog-posts here or on my [github](https://github.com/Wil-Ro).
+- Exploring how we can use computers in environmentally sustainable ways
+- Exploring how robotics can work in real world environments
+- Learning to create low power programs and robotics
+- Working with environmental groups for conservation and political change
+- Following the computing scene as a whole
 
-I've previously had interests in VR and XR and UI design, spending a lot of my secondary school years experimenting with both concepts so both websites also have a few probjects relating to those concepts.
+Most of my interests lie in low-power computing, experimenting with how
+computers can work in an environmentally friendly manner. The environment is something I think
+about a lot and finding overlaps between it and my interests in computing has lead me to some really
+interesting communities.
+
+I feel that computers and automation really could help produce a sustainable
+world where people can easily afford the bare minimum and find themselves comfortable and happy.
 ________
-If you want a basic outline of my work, here are a few interesting projects:
-- [My Work at Skipton Building Society](/SBSWork.html)
-- [My Work running AberCompSoc](/aberComSoc.html)
+
+If you want an outline of my work, these are some things I'm really proud of:
+- [Skipton Building Society](/SBSWork.html)
+- [AberCompSoc](/aberCompSoc.html)
 - [AardvarkXR](/Aardvark.html)
 
 To see all of my work, check the navbox to the side.
@@ -25,5 +36,5 @@ To see all of my work, check the navbox to the side.
 <-
 
 
-## DISCLAMER! SITE STILL IN PROGRESS
+## DISCLAIMER! SITE STILL IN PROGRESS
 This is all a bit everywhere rn, the css will be given some frills at somepoint soon

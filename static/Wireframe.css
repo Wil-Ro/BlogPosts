@@ -1,5 +1,10 @@
 h1{
     color: black;
+    font-size: 1.7rem;
+}
+
+h2{
+    font-size: 1.5rem;
 }
 
 header{
@@ -43,4 +48,13 @@ pre
 img{
     width: 100%;
     margin-top: 10px;
+}
+
+.contacts{
+    display: flex;
+    gap: 5px;
+}
+
+#contactsHeader{
+    margin-top: 30px;
 }
