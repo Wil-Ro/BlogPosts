@@ -6,7 +6,7 @@ This site is generated procedurally from markdown though C++ code I've written a
 
 ## Who I am
 
-<img src="profile.jpeg" alt="image of me" style="width:50%;">
+<img src="profile.jpeg" alt="image of me" style="width:30%;">
 
 I'm a software engineering student currently studying at a small university in wales whilst teaching myself robotics
 and exploring my own interests on the side including:
