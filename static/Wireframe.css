@@ -96,7 +96,7 @@ img{
     margin-top: 30px;
 }
 
-@media(orientation: portrait) {
+@media(only screen and orientation: portrait) {
 body, h1, h2{
     font-size: 2rem;
 }
