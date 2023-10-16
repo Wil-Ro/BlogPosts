@@ -10,6 +10,8 @@
 body{
     background-color: var(--back);
     color: var(--text);
+
+    font-family: 'Courier New';
 }
 a{
     color: var(--text);
@@ -96,7 +98,7 @@ img{
     margin-top: 30px;
 }
 
-@media(only screen and orientation: portrait) {
+@media only screen and (orientation: portrait) {
 body, h1, h2{
     font-size: 2rem;
 }
@@ -116,4 +118,10 @@ nav{
     flex-wrap: wrap;
 }
 
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 12px;
+  }
 }
