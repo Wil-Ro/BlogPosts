@@ -45,6 +45,8 @@ nav{
     /*border-right: var(--text) dashed 3px;*/
 
     padding: 10px;
+    
+    overflow: clip;
 
 }
 
@@ -86,6 +88,8 @@ img{
 .contacts{
     display: flex;
     gap: 5px;
+    
+    flex-wrap: wrap;
 }
 
 #contactsHeader{
