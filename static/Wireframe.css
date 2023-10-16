@@ -30,7 +30,7 @@ header{
 
 main{
     display: flex;
-    border-top: var(--text) dashed 3px;
+    /*border-top: var(--text) dashed 3px;*/
 }
 
 article{
@@ -42,7 +42,7 @@ article{
 nav{
     width: 12%;
 
-    border-right: var(--text) dashed 3px;
+    /*border-right: var(--text) dashed 3px;*/
 
     padding: 10px;
 
@@ -67,6 +67,15 @@ pre
     background-color: lightgray;
     padding: 3px;
     overflow: auto;
+}
+
+blockquote{
+    background-color: lightgray;
+    padding: 3px;
+    margin: 0;
+}
+blockquote p{
+ margin: 0;
 }
 
 img{
