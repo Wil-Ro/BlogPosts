@@ -1,5 +1,21 @@
+:root{
+    /*
+    --text: #a7bf93;
+    --back: #86716a;
+    */
+    --text: #000000;
+    --back: #ffffff;
+}
+
+body{
+    background-color: var(--back);
+    color: var(--text);
+}
+a{
+    color: var(--text);
+}
+
 h1{
-    color: black;
     font-size: 1.7rem;
 }
 
@@ -14,11 +30,22 @@ header{
 
 main{
     display: flex;
+    border-top: var(--text) dashed 3px;
+}
+
+article{
+    width: 60rem;
+    padding-left: 30px;
+
 }
 
 nav{
-    margin-right: 5%;
-    width: 10%;
+    width: 12%;
+
+    border-right: var(--text) dashed 3px;
+
+    padding: 10px;
+
 }
 
 nav h1{
@@ -27,12 +54,9 @@ nav h1{
 
 nav h2{
     font-size: 1rem;
-    margin-bottom: 0;
+    margin-bottom: 0; /*overwriting default h2 thing*/
 }
 
-article{
-    width: 60rem;
-}
 
 ul{
     list-style-type: "- ";
@@ -58,3 +82,9 @@ img{
 #contactsHeader{
     margin-top: 30px;
 }
+
+/*
+ green: a7bf93
+ darker_green: 596854
+ brown: 86716a
+ */
