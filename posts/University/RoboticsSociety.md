@@ -1,5 +1,5 @@
 
-# Aber Robotics Soc
+# AberRoboticsSoc
 The Aber Robotics Society is a small society of friends at my university who meet every wednesday in a robotics lab and work on their projects. I originally joined to learn basic electronics but found a lot of good friends there and a really nice sense of community.
 
 While there I have learnt most of my knowledge of robotics and electronics and worked on a number of projects including a basic two wheeled remote control robot (my first project where I learnt the basics of electronics), a program that takes photos of people, converts the images to lines and g-code and sends them to a CNC machine that draws the images and a watering system for plants I keep at my house.
