@@ -40,3 +40,6 @@ Alpine essentially, from a users perspective, is made of busybox (a very basic s
 
 ## Fun stuff
 You can still see the first test article for this website [here](TestFullArticle.md)
+
+# note: add infomation about things that still need improving
+e.g. video and file streaming to avoid reliance on other websites
