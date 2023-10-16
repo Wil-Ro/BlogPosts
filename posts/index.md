@@ -3,10 +3,7 @@
 
 This is my site where I log my work for myself and for me to show to others.
 
->This site is generated procedurally from markdown though C++ code I've written
-and hosted using [lighttpd](https://www.lighttpd.net/) on an old laptop through
-my router. You can find the code for it [here](https://ithub.com/Wil-Ro/Blog)
-and a more indepth talk about why I did that [here](/ThisSite.html).
+>This site is generated procedurally from markdown though C++ code I've written. It's hosted using [lighttpd](https://www.lighttpd.net/) on an old laptop through my router. You can find the code for it [here](https://ithub.com/Wil-Ro/Blog) and a more in-depth talk about why I did that [here](/ThisSite.html).
 
 ## Who I am
 
