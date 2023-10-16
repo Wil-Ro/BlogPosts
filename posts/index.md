@@ -33,6 +33,4 @@ If you want an outline of my work, these are some things I'm really proud of:
 - [Plant Care System](PlantSystem.html)
 - [AardvarkXR](Aardvark.html)
 
-To see all of my work, check the navbox to the side.
-
-<-
+To see all of my work, check the navbox
