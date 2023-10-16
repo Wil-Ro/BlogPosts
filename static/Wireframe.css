@@ -118,10 +118,17 @@ nav{
     flex-wrap: wrap;
 }
 
-}
-
 @media (max-width: 600px) {
   body {
     font-size: 12px;
   }
+}
+
+@media (max-width: 300) {
+  body {
+    font-size: WHATTpx;
+  }
+}
+
+
 }
