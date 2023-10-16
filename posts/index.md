@@ -11,7 +11,7 @@ I'm Rosia Evans, I'm a software engineering student currently studying at a smal
 and exploring my own interests on the side.
 
 
-<img src="profile.jpeg" alt="image of me" style="width:30%;">
+![image of me](profile.jpeg)
 
 
 Most of my interests lie in low-power computing, experimenting with how
