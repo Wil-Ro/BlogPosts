@@ -22,4 +22,4 @@ Our current project is wiring up and programming a small unused [RC-Laser](https
 ## Learning
 Before SailBot I'd never worked with physical mediums such as resin and wood outside of 3D printing. Carving out the hull and coating it, along with designing and sewing the sail was an amazing experience for me and taught me a great amount.
 
-![Image of both teams on the day](BoatingTeams.jpg)
+<img alt="Image of both teams on the day of our first race" src="BoatingTeams.jpg">
