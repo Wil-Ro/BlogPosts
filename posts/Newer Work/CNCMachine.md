@@ -18,8 +18,8 @@ This GCode was then sent by [Universal Gcode Sender](https://github.com/winder/U
 ![Image of The CNC machine](CNSelfie1.jpg)
 ![Image of The CNC machine](CNSelfie2.jpg)
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xjyn54UnaAA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<div style="display:flex; gap: 10px;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZUDhqIgixiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xjyn54UnaAA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
