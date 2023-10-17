@@ -15,13 +15,13 @@ The main practises behind it could be outlined as
 
 ## My relations to Permacomputing
 I'd been exploring the ideas behind permacomputing for a while before I discovered its community. I'd originally found concepts similar to it through [100 rabbits](https://100r.co/) (a research collective living on a boat, exploring the longevity of computers) and have always been very anxious around the environment and waste. As well as this I was somewhat aware of the concepts of permaculture. 
-As I was exploring the internet one day I found the term "Permacomputing" and immediately knew it was a term describing the thoughts I'd been having. I looked into it and very quickly found myself sifting through its wiki's and the websites of community members.
+As I was exploring the internet one day I found the term "Permacomputing" and immediately knew it was a term describing the thoughts I'd been having. I looked into it and very quickly found myself passionately sifting through its wiki's and the websites of community members.
 
 ## My thoughts
 ### Low-power code
 I think that permacomputing has some really interesting and strong ideas behind it. What especially holds my attention is its ideas behind reusing old computers and creating low-power code.
 
-There is definitely some truth to the idea that most basic tasks we do today such as browsing social media or word processing could be done by any full-featured computer from the last 20 years or so. A lot of modern programs such as Microsoft Teams or Spotify do very basic jobs but consume unreasonable amounts of processing power and therefore electricity due to being buried under layers and layers of abstraction.
+There is definitely some truth to the idea that most basic tasks we do today such as browsing social media or word processing could be done by any full-featured computer from the last 20 years or so. A lot of modern programs such as Microsoft Teams or Spotify do very basic jobs but consume unreasonable amounts of processing power (and therefore electricity) due to being buried under layers and layers of abstraction.
 I think this is not only the least radical and easiest to argue of Permacomputings ideas but also the easiest to implement at a wider scale. It just relies on companies and developers avoiding creating everything in web-frameworks and overly-large run-times.
 
 This has visible benefits to them too, it creates a system they have full control over that will be noticeably much faster. Teams is notoriously slow and from what I can tell this is almost entirely due to the fact its essentially running an entire web-browser in the background when you open it.
