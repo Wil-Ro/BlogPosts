@@ -19,8 +19,8 @@ computers can work in an environmentally friendly manner. The environment is som
 about a lot and finding overlaps between it and my interests in computing has lead me to some really
 interesting communities. My physical work involves:
 
-- Exploring how we can use computers in environmentally sustainable ways [see here](permacomputing.html)
-- Exploring how robotics can work in real world environments
+- Exploring how we can use computers in environmentally sustainable ways [see here](Permacomputing.html)
+- Exploring how robotics can work in real world environments [see here](SailBot.html)
 - Learning to create low power programs and robotics [see here](ThisSite.html)
 - Working with environmental groups for conservation and political change
 - Following the computing scene as a whole

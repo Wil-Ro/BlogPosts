@@ -1,5 +1,6 @@
 
 # EPQ Project
+> This is an older post from my first personal website I created in secondary school, its yet to be re-written for this new website so expect varying degrees of quality
 
 ## What it is
 This project was completed for my Extended Project Equalification (also known as EPQ). During the EPQ, a student will pick a subject of their choice, research it and then either write a paper or create a piece of media

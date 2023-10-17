@@ -1,5 +1,6 @@
 
 # Tower defence game
+> This is an older post from my first personal website I created in secondary school, its yet to be re-written for this new website so expect varying degrees of quality
 
 ## What it is
 A tower defence game, mostly created over the course of 1-2 months to allow myself and a friend to gain a better understanding of python. Players can place cats to attack balls of wool rolling along a path. Cats can

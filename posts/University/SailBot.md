@@ -1,6 +1,6 @@
 
 # AberSailBot
-SailBot is a university society I joined in my first year. They build and race robot sailboats. 
+SailBot is a university society I joined in my first year. They build and race robot automated, self-driving sailboats.
 
 I joined the society as it seemed like a really interesting challenge building robots that have to deal with the insane variety of variables the outside world offers. Especially in the ocean where you rely on those variables to perform even basic movement. It felt like a good chance to try and learn to program machines that had to learn and work with those concepts.
 
