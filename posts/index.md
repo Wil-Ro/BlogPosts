@@ -14,19 +14,17 @@ and exploring my own interests on the side.
 ![image of me](profile.jpeg)
 
 
-Most of my interests lie in computing in farming and the creation of Low-Power programs, experimenting with how
-computers can work in an environmentally friendly manner. The environment is something I think
-about a lot and finding overlaps between it and my interests in computing has lead me to some really
-interesting communities. My physical work involves:
-
-- Exploring how robotics can work in real world environments [see here](SailBot.html), especially in terms of interactions with plants.
-- Exploring how we can use computers in environmentally sustainable ways [see here](Permacomputing.html)
-- Learning to create low power programs and robotics [see here](ThisSite.html)
-- Exploring ideas behind farming automation and how we can produce more food whilst keeping our methods sustainable
-- Following the computing scene as a whole
-
-I feel that computers and automation really could help produce a sustainable
+Most of my interests are in using robotics and computers in farming and the creation of low-power code that uses as little energy as possible, experimenting with how
+computers can work in an environmentally friendly manner and how they could help push us beyond scarcity. I feel that computers and automation really could help produce a sustainable
 world where people can easily afford the bare minimum and find themselves comfortable and happy.
+My physical work involves:
+
+- Exploring how robotics can work in [real world environments](SailBot.html), especially in terms of interactions with plants.
+- Exploring how we can use computers in environmentally sustainable ways [see here](Permacomputing.html)
+- Teaching myself to create low power programs and robotics [see here](ThisSite.html)
+- Exploring ideas behind farming automation and how we can produce more food whilst keeping our methods sustainable, becoming an active member of communities such as [GOAT](https://goatech.org/) and [TwistedFields](https://community.twistedfields.com/t/welcome-to-the-twisted-fields-community-forum/7)
+
+I've been programming for most of my life. My main language is C++, but I have a decent amount of experience in C#, Python and Java and some loose experience in Typescript and C.
 
 If you want an outline of my work, these are some things I'm really proud of:
 - [My Previous Job](SBSWork.html)
