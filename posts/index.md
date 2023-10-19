@@ -7,29 +7,29 @@ This is my site where I log my work for myself and for me to show to others.
 
 ## Who I am
 
-I'm Rosia Evans, I'm a software engineering student currently studying at a small university in Wales whilst teaching myself robotics
+I'm Rosia Evans, I'm a software engineer currently studying at a small university in Wales whilst teaching myself robotics
 and exploring my own interests on the side.
 
 
 ![image of me](profile.jpeg)
 
 
-Most of my interests lie in low-power computing, experimenting with how
+Most of my interests lie in computing in farming and the creation of Low-Power programs, experimenting with how
 computers can work in an environmentally friendly manner. The environment is something I think
 about a lot and finding overlaps between it and my interests in computing has lead me to some really
 interesting communities. My physical work involves:
 
+- Exploring how robotics can work in real world environments [see here](SailBot.html), especially in terms of interactions with plants.
 - Exploring how we can use computers in environmentally sustainable ways [see here](Permacomputing.html)
-- Exploring how robotics can work in real world environments [see here](SailBot.html)
 - Learning to create low power programs and robotics [see here](ThisSite.html)
-- Working with environmental groups for conservation and political change
+- Exploring ideas behind farming automation and how we can produce more food whilst keeping our methods sustainable
 - Following the computing scene as a whole
 
 I feel that computers and automation really could help produce a sustainable
 world where people can easily afford the bare minimum and find themselves comfortable and happy.
 
 If you want an outline of my work, these are some things I'm really proud of:
-- [Skipton Building Society](SBSWork.html)
+- [My Previous Job](SBSWork.html)
 - [Plant Care System](PlantSystem.html)
 - [AardvarkXR](Aardvark.html)
 

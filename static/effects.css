@@ -1,10 +1,40 @@
 a{
     text-decoration: underline;
     color: black;
+    transition: background-color 0.5s;
 }
 a:visted{
     color: black
 }
 a:hover{
     font-weight: 600;
+    background-color: #84b09d;
+    /*color: #ffffff;*/
+    padding: 1px;
+}
+
+
+::selection {
+    background-color: #84b09d;
+    color: #ffffff;
+}
+
+::-moz-selection {
+    background-color: #84b09d;
+    color: #ffffff;
+}
+
+::-o-selection {
+    background-color: #84b09d;
+    color: #ffffff;
+}
+
+::-ms-selection {
+    background-color: #84b09d;
+    color: #ffffff;
+}
+
+::-webkit-selection {
+    background-color: #84b09d;
+    color: #ffffff;
 }
