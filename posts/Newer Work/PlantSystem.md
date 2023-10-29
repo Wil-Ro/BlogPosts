@@ -40,4 +40,4 @@ The design I have in mind for this project has a few interesting flaws. Firstly 
 Secondly, if expanded, this system would require individual modules for each plant that it monitored. This feels inefficient and a much better system would involve one, more complex, tool. This would be moved between plants being used on all of them, as opposed to the current collection of "dumb" modules that are spread between each plant.
 This is definitely feasible but not at my scale. This does still feel like a good way to develop skills towards creating this.
 
->Its worth noting, this is my first steps towards making something a bit more realistically usable, you can find my first designs towards that [here](PlantCareV2.md)
+>Its worth noting, this is my first steps towards making something a bit more realistically usable, you can find my first designs towards that [here](PlantCareV2.html)
