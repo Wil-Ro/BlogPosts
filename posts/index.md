@@ -19,7 +19,7 @@ world where people can easily afford the bare minimum and find themselves comfor
 My physical work involves:
 
 - Learning how robotics can work in [real world environments](SailBot.html)
-- Experimenting with how we can use computers in [environmentally sustainable] (Permacomputing.html) ways,
+- Experimenting with how we can use computers in [environmentally sustainable](Permacomputing.html) ways,
 - Teaching myself to create [low-power/high efficiency programs](ThisSite.html) and robotics,
 - Learning about ideas behind farming automation and how we can produce more food whilst keeping our methods sustainable, becoming an active member of communities such as [GOAT](https://goatech.org/) and [TwistedFields](https://community.twistedfields.com/t/welcome-to-the-twisted-fields-community-forum/7),
 
