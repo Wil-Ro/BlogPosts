@@ -22,13 +22,13 @@ On the side of this, I also did a number of other tasks:
 - Pushed for the society to set-up standards for all their future automated testing.
 
 ## Skills Learnt
-Throughout this internship I found that my social skills developed greatly. I got a lot better at giving criticism, being willing to ask questions and admit I didn't understand things (all things I somewhat originally struggled with).
+Throughout this internship I found that my social skills developed greatly. I got a lot better at giving criticism, being willing to ask questions and admitting I didn't understand things (all things I somewhat originally struggled with).
 
 I also:
 - Learnt a large amount around Microsoft's Azure Cloud Systems
 - Learnt the ins and outs of Manual and automated testing
 - Gained real world experience of an Agile working environment, which I greatly enjoyed. 
-- I developed a much stronger understanding of APIs and back-end programming which I had never previously looked into.
+- Developed a much stronger understanding of APIs and back-end programming which I had never previously looked into.
 
 Multiple times during my work there I was requested to stay as an apprentice rather than go to University, I did turn this offer down but I still currently work there one day a week remotely and full time over summers.
 
