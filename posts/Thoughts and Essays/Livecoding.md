@@ -29,5 +29,9 @@ From the very beginning diversity was at the core of algorave's ideals. From its
 
 I think it says a lot that even in the early 2000's the community was focusing on this and driving for a wide range of people to take part in it. It shows a real genuine understanding of why diversity is so important and the outcomes of all of this have been amazing. Algorave is a somewhat common style of performance at a few small queer bars near me and I feel like this really shows that the mindset behind it has helped produce a community that's incredibly welcoming and open.
 
-## 
-
+<!---
+could be worth talking about/linking these, 
+https://www.sheffieldtribune.co.uk/p/coding-is-the-new-clubbing-on-the
+https://github.com/Algorave/guidelines/blob/master/README_en.md
+https://slab.org/2015/07/28/the-generative-manifesto-august-2000/
+-->
