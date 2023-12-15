@@ -48,9 +48,9 @@ The keyboard has by far been the biggest challenge of this project, There are no
 - Bring a bluetooth keyboard
 - Design my own
 
-Bringing a bluetooth keyboard seems like the most realistic option and is most likely the one I will go with, but I have done research into keyboard layouts I could use including a really unique one a friend suggested and I ended up testing out.
+Bringing a bluetooth keyboard seems like the most realistic option and is most likely the one I will go with, but I have done research into keyboard layouts I could use, including a really unique one a friend suggested which I ended up testing out.
 
-The first physical result of this whole project has been a model of the laptop with a sticky surface for me to move keys around on to experiment with different layouts. Using this I feel that I have somewhat come across a design I like but I've yet to decide whether its worth buying a large amount of switches and keycaps to solve a problem I already have a bluetooth keyboard in a cupboard to act as a solution for. I think its most likely I'll use the bluetooth keyboard in the end.
+The first physical result of this whole project has been a model of the laptop with a sticky surface for me to move keys around on. This has allowed me to experiment with different layouts and see how they feel in my hands. Using this I feel that I have somewhat come across a design I like but I've yet to decide whether its worth buying a large amount of switches and keycaps to solve a problem I already have a solution for (bluetooth keyboard).
 
 ![cardboard keyboard prototype](KeyboardPrototype1.jpg)
 ![cardboard keyboard prototype](KeyboardPrototype2.jpg)
