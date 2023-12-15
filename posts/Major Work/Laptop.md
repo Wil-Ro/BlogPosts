@@ -1,7 +1,7 @@
 
 # Self-built Laptop
 ## How it started
-I have a small shoulder-bag I take everywhere and I often find myself wanting to take just that bag with my somewhere but wanting to take a laptop and having to take a whole backpack just for that laptop.
+I have a small shoulder-bag I take everywhere and I often find myself wanting to take just that bag with me somewhere but wanting to take a laptop and having to take a whole backpack just for that laptop.
 Separately from this, during my summer last year, I often found myself sitting outside and programming. Sat on the grass outside my dormitory or on the local hillsides with friends. Around the time I'd started experimenting with E-Ink Screens for a small project I was considering starting and I realised they would be perfect for programming outdoors in bright environments.
 I'd also around this time wanted to try and create electronics that were resilient to outdoor environments.
 
