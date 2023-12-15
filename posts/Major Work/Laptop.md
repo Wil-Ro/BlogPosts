@@ -21,18 +21,18 @@ Most parts needed I've currently got or have bought, including:
 - A raspberry pi 2 b+ I've had lying around for years
 - An E-Ink screen bought for a previous project (more on this screen in a bit)
 - 4 18650 Li-Ion batteries and a battery board for charging and power management
-- A sim-card board for roaming data (to be picked)
+- A sim-card board for roaming data
 
 ### E-ink display
-The E-Ink display is a core part of this project and something I'm very excited for. I have a strong love of E-ink displays as things that are incredibly energy efficient, usable in almost any conditions and are a bit slower than normal screens proposing some really interesting challenges in terms of software.
+The E-Ink display is a core part of this project and something I'm very excited for. I have a strong love of E-ink displays as things that are incredibly energy efficient, usable in almost any conditions and are a bit slower than normal screens proposing some really interesting challenges in terms of UI design.
 
-A basic summary of these screens is that they are black and white displays that look very similar to paper. They don't use lights to produce colours and instead change their reflectiveness by controlling the charge of ink particles in little chambers of oil in their surface. This has a really nice effect of allowing them to work from the ambient light around them. The outcome of this being that are visible just about anywhere you can read paper and have an amazing viewing angle. Their only drawback being a slow refresh rate and a very small colour range, each added colour adds around 1-5 seconds to the refresh rate so generally they come in black and white only.
+As a basic summary, these screens are black and white displays that look very similar to paper. They don't use lights to produce colours and instead change their reflectiveness by controlling the charge of ink particles in little chambers of oil in their surface. This has a really nice effect of allowing them to work with the ambient light around them. The outcome of this being that they're are visible just about anywhere you can read paper and have an amazing viewing angle. Their only drawback being a slow refresh rate and a very small colour range, each added colour adds around 1-5 seconds to the refresh rate so generally they come in black and white only.
 
 I find this limited refresh rate a really interesting challenge and in terms of what I'd be using this laptop for (programming) it wouldn't be too big of a drawback.
 
 People have been experimenting with E-Ink screens a lot in the past few years and even got them to a point where they can display [functional desktops](https://www.youtube.com/watch?v=J5WbhSV2E_U), which I think is really amazing. However despite this I feel that a terminal would be a really interesting limit to put on myself when using this laptop. As well as this, the screen I have bought is incredibly small (2.13 inches diagonally) and I am somewhat determined to work with it, this making desktops somewhat harder to use.
 
-I spent a long time working with E-ink displays and rewriting their drivers for this project. For more information on that I'll be writing a blog-post soon.
+I spent a long time working with E-ink displays and rewriting their drivers for this project. I'll be writing and attaching a blog-post on this soon.
 
 ### The battery pack
 The power source for this laptop is just a set of 4 Li-Ion batteries, googling this setup most people claim it could power a raspberry pi with a display for around an hour, and for around 10 hours without a display out outputs.
@@ -40,7 +40,7 @@ The power source for this laptop is just a set of 4 Li-Ion batteries, googling t
 This wouldn't be a great battery life for most devices but using an E-ink display runs means we can run the display directly from the Rpi's 3v gpio pin and it only ever consumes power on refreshes so I think this could last much longer. Its something I definitely want to try and measure once this project is finished.
 
 ### The sim-card
-If I'm wanting to use this laptop outdoors, it would be nice to be able to do so without having to tether it to my phones Wi-Fi hotspot. After a bit of research I found hats and boards for the raspberry that support sim-cards and support most protocols. This seems like a really fun chance to explore a technology I've barely ever touched, but I'm currently yet to finish looking into its feasibility and whether its worth buying a board for.
+If I'm wanting to use this laptop outdoors, it would be nice to be able to do so without having to tether it to my phones Wi-Fi hotspot. After a bit of research I found hats and boards for the raspberry that support sim-cards and support most protocols. This seems like a really fun chance to explore a technology I've barely ever touched.
 
 
 ## The Keyboard
@@ -56,4 +56,4 @@ The first physical result of this whole project has been a model of the laptop w
 ![cardboard keyboard prototype](KeyboardPrototype2.jpg)
 
 ## Summary
-This project was being worked on at the same time as my [plant monitoring system](PlantSystem.html) though at a somewhat slower pace. Since my industrial year search has started up both projects have somewhat slowed down but I hope to get back to them both soon! Especially since I have all the components, its just a matter of attaching them to a case
+This project was being worked on at the same time as my [plant monitoring system](PlantSystem.html) though at a somewhat slower pace. Since my industrial year search has started up both projects have somewhat slowed down but I hope to get back to them both soon! Especially since I have all the components, its just a matter of attaching them to a case...
