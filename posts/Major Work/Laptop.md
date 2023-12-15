@@ -5,11 +5,11 @@ I have a small shoulder-bag I take everywhere and I often find myself wanting to
 Separately from this, during my summer last year, I often found myself sitting outside and programming. Sat on the grass outside my dormitory or on the local hillsides with friends. Around the time I'd started experimenting with E-Ink Screens for a small project I was considering starting and I realised they would be perfect for programming outdoors in bright environments.
 I'd also around this time wanted to try and create electronics that were resilient to outdoor environments.
 
-From these 3 ideas I decided to try and create my own laptop that would fit within the 20x20cm space of my bag and was fully usable outside whilst remaining low-power enough for long trips outdoors.
+From these 3 ideas I decided to try and create my own laptop that would fit within the 20x20cm space of my bag and was fully usable outside whilst remaining low-power enough for long trips.
 
 ## The initial design
-My first plan for this computer was a small rectangular slab made of various layers of components and with an identical standardised frame for each layer that would screw together to for a sandwich of parts. The idea behind this being that it would be incredibly modular and simple to design and expand.
-This idea stuck around for a while but eventually got dropped as I hoped to make the electronics somewhat more accessible and wanted a computer that wasn't just a flat slab of plastic.
+My first plan for this computer was a small rectangular slab, made of various layers of components and each made of an identical standardised frame. Each layer screwing together to form a sandwich of parts. The idea behind this being that it would be incredibly modular and simple to design and expand.
+This idea stuck around for a while but eventually got dropped as I hoped to make the electronics somewhat more accessible and because wanted a computer that wasn't just a flat slab of plastic.
 
 My second idea was a flat rectangle but with its upper third on a friction hinge to allow it to be tilted and tightened. This idea has stuck around and is currently my main driving design. Whilst its somewhat more fragile, its a much more human and open design and in theory shouldn't be too much more complex to design.
 
