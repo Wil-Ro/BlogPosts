@@ -1,7 +1,7 @@
 
 # Self-built Laptop
 ## How it started
-I have a small shoulder-bag I take everywhere and I often find myself wanting to take just that bag with me somewhere but wanting to take a laptop and having to take a whole backpack just for that laptop.
+I have a small shoulder-bag I take everywhere. I often find myself wanting to take just that bag with me somewhere but also needing to take a laptop and having to take a whole backpack just for that laptop.
 Separately from this, during my summer last year, I often found myself sitting outside and programming. Sat on the grass outside my dormitory or on the local hillsides with friends. Around the time I'd started experimenting with E-Ink Screens for a small project I was considering starting and I realised they would be perfect for programming outdoors in bright environments.
 I'd also around this time wanted to try and create electronics that were resilient to outdoor environments.
 
@@ -54,6 +54,20 @@ The first physical result of this whole project has been a model of the laptop w
 
 ![cardboard keyboard prototype](KeyboardPrototype1.jpg)
 ![cardboard keyboard prototype](KeyboardPrototype2.jpg)
+
+## Progress Update 4/1/2024
+Over this Christmas break a number of large steps have been taken, leaving me pretty close to finishing this project!
+- I was given a SIM7600E hat for my Pi as a gift, meaning I now have the final missing piece of my hardware! Getting this working took a few days but its now ready to give my laptop 4G data. In theory it could also allow for phone calls and GPS tracking but I don't really have the time to write the programs for these at the moment and it feels like something I wouldn't use too much.
+- The final decision has been made on the keyboard, I have a bluetooth one I'm happy using. This keeps my project a bit more realistic as designing a keyboard would likely double the amount of work for this.
+- A final CAD design has been made and checked with an engineer friend, images below. I've created two versions. The first follows the original design as still holds space for a keyboard or other form of expansion. The second has removed this space but is slightly thicker as it places the hat on the pi. I'm really happy with these and they're essentially ready to be built.
+- I met up with a friend who will help me with the wood working, we talked through tweaks needed to make the design more realistic to machine and the processes we would use for each part. This turned out better than I could have hoped and its turned out we'll get to do some really fun work, for instance we plan to do some wood bending which is something I've always wanted to try!
+
+![image of laptop cad design](LaptopCad1.png)
+![image of laptop cad design without cover](LaptopCad2.png)
+![image of alternative laptop cad design](LaptopCad3.png)
+![image of alternative laptop cad design without cover](LaptopCad4.png)
+
+I'm really happy with my progress over this two week break. Its a shame the final wood work will have to wait till Easter but its just how things are with exams.
 
 ## Summary
 This project was being worked on at the same time as my [plant monitoring system](PlantSystem.html) though at a somewhat slower pace. Since my industrial year search has started up both projects have somewhat slowed down but I hope to get back to them both soon! Especially since I have all the components, its just a matter of attaching them to a case...
