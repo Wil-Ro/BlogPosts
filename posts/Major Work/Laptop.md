@@ -70,4 +70,4 @@ Over this Christmas break a number of large steps have been taken, leaving me pr
 I'm really happy with my progress over this two week break. Its a shame the final wood work will have to wait till Easter but its just how things are with exams.
 
 ## Summary
-This project was being worked on at the same time as my [plant monitoring system](PlantSystem.html) though at a somewhat slower pace. Since my industrial year search has started up both projects have somewhat slowed down but I hope to get back to them both soon! Especially since I have all the components, its just a matter of attaching them to a case...
+This project was being worked on at the same time as my [plant monitoring system](PlantSystem.html) though at a somewhat slower pace. Now my final design is finished and ready I hope to build it physically soon. I have plans to do this over the Easter break with a friend.
