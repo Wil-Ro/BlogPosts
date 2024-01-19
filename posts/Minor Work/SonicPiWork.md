@@ -1,6 +1,6 @@
 
 # Sonic-Pi and Algorave
-Sonic-Pi is a language build around live-coding and producing music algorithmically through code. Its based off Ruby and has a really nice twist that you see often in the live-coding community in that the code you write is constantly running and and being evaluated so as you write it the music being produced by it changes live.
+Sonic-Pi is a language built around live-coding and producing music algorithmically through code. Its based off Ruby and has a really nice twist that you see often in the live-coding community. This twist is that the code you write is constantly running and and being evaluated so as you write it the music being produced by it changes live.
 
 I find Sonic-Pi a really nice way to relax with programming, it produces code that's inherently temporary and I find that really freeing. It can be easy to get burnt out with code and with Sonic-Pi, when that hits I just delete all my code and start again building something new. In another post I described it as "the programming equivalent of doodling on scrap paper".
 
