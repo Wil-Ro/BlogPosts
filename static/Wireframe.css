@@ -118,7 +118,8 @@ img{
 
 .webringContent{
     display: flex;
-    gap: 0;
+    gap: 5px;
+    justify-content: space-between;
 }
 
 
