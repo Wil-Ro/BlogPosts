@@ -1,3 +1,7 @@
+:root{
+    --accent: #879b6a;
+}
+
 a{
     text-decoration: underline;
     color: black;
@@ -8,33 +12,33 @@ a:visted{
 }
 a:hover{
     font-weight: 600;
-    background-color: #84b09d;
+    background-color: var(--accent);
     color: #ffffff;
     padding: 1px;
 }
 
 
 ::selection {
-    background-color: #84b09d;
+    background-color: var(--accent);
     color: #ffffff;
 }
 
 ::-moz-selection {
-    background-color: #84b09d;
+    background-color: var(--accent);
     color: #ffffff;
 }
 
 ::-o-selection {
-    background-color: #84b09d;
+    background-color: var(--accent);
     color: #ffffff;
 }
 
 ::-ms-selection {
-    background-color: #84b09d;
+    background-color: var(--accent);
     color: #ffffff;
 }
 
 ::-webkit-selection {
-    background-color: #84b09d;
+    background-color: var(--accent);
     color: #ffffff;
 }
