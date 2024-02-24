@@ -55,7 +55,7 @@ The first physical result of this whole project has been a model of the laptop w
 ![cardboard keyboard prototype](KeyboardPrototype1.jpg)
 ![cardboard keyboard prototype](KeyboardPrototype2.jpg)
 
-## Progress Update 4/1/2024
+## Progress Update 4/1/2024 - Little Things
 Over this Christmas break a number of large steps have been taken, leaving me pretty close to finishing this project!
 - I was given a SIM7600E hat for my Pi as a gift, meaning I now have the final missing piece of my hardware! Getting this working took a few days but its now ready to give my laptop 4G data. In theory it could also allow for phone calls and GPS tracking but I don't really have the time to write the programs for these at the moment and it feels like something I wouldn't use too much.
 - The final decision has been made on the keyboard, I have a bluetooth one I'm happy using. This keeps my project a bit more realistic as designing a keyboard would likely double the amount of work for this.
@@ -69,5 +69,16 @@ Over this Christmas break a number of large steps have been taken, leaving me pr
 
 I'm really happy with my progress over this two week break. Its a shame the final wood work will have to wait till Easter but its just how things are with exams.
 
+## Progress Update 10/2/2024 - Re-soldering headers
+In my previous update there's some CAD images, you may notice an odd design choice in these. The smaller system has a board sticking out the top. This was done because the pi and hat combined together are quite tall and a thicker device would be somewhat ugly and unwieldy. Having them stick out the top was an attempt to create a smaller device but I wasn't very happy with this. As a solution, this put the board at risk of damage and essentially worsened the ruggedness of the device just for improved aesthetics. In order to fix this I decided to resolder the header pins on my boards myself to try make them smaller.
+
+This involved cutting the plastic from the header, de-soldering each of the 40 pins individually and then either re-soldering them directly onto the pi or finding some form of smaller header. I didn't want to directly solder them to the board as it would have been a bit too permanent (the idea of being able to disassemble this board if necessary is something I'm somewhat attached to). For a while I really struggled to find a header that was much smaller but eventually I found an interesting workaround. I found a header extender board that turned an RPi's GPIO pins into a set of two. Using this I could then attach the hat using a shallow female header and still have access to the GPIO, essentially making the device slightly wider instead of taller.
+
+I bought the board and headers and after soldering them on I was left with a device that was a third or so smaller than it had originally been! I was really paranoid I was going to damage my board from this but it worked out so I'm quite proud of it.
+
+![An image of a circuit board being taken apart](p2ppyBoardDestroyed.jpg)
+![An image of my new board from above after re-soldering](p2ppyBoard1.jpg)
+![An image of my new board from the side after re-soldering](p2ppyBoard2.jpg)
+![An image of my new board from the other side after re-soldering](p2ppyBoard3.jpg)
 ## Summary
 This project was being worked on at the same time as my [plant monitoring system](PlantSystem.html) though at a somewhat slower pace. Now my final design is finished and ready I hope to build it physically soon. I have plans to do this over the Easter break with a friend.
