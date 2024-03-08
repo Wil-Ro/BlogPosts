@@ -28,6 +28,6 @@ I've been programming for most of my life. My main language is C++, but I also h
 If you want an outline of my work, these are some things I'm really proud of:
 - [My Previous Job](SBSWork.html)
 - [Plant Care System](PlantSystem.html)
-- [AardvarkXR](Aardvark.html)
+- [Self-built Laptop](Laptop.html)
 
 To see all of my work, check the navbox
