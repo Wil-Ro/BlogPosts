@@ -2,6 +2,18 @@ P
 # E-Ink Screens
 E-Ink has been somewhat of a fixation of mine for a while now, as a technology it not only offers an environmentally friendly and power sparing form of output but it also offers some really interesting challenges in its application. I want to talk about this a bit and explore it here.
 
+## What is an E-Ink Display
+E-Ink displays are a low-power display technology that look like paper. They work by changing the colour of ink cells rather than changing the light that's emitted, this means we see them using the ambient light around us rather than using light directly produced by the screen. This has a number of interesting results.
+1. Low power consumption, ink cells only need power to change state, not to maintain it. This makes them incredibly efficient, only using power when changing image and not needing any at all to maintain it.
+2. Visibility in high light environments, since these screens reflect ambient light to be seen, they work great outdoors and in many places normal screens wouldn't work. Kindles use them to allow people to read e-books outdoors.
+3. Low refresh rate, a negative side of this is that E-Ink screens have a very low refresh rate, often around 5fps at most (the highest I've seen was 11). This poses some really fun design challenges, especially around UI.
+4. Ghosting/[Burn-in](https://en.wikipedia.org/wiki/Screen_burn-in), a much larger negative. Over time E-Ink screens will refresh in a less clean manner, keeping some of their previous image. Screens I've used in the past have linked this to constant high refresh or active maintenance of a single image.
+
+## What's interesting about this
+
+## How can we use this? (And how shouldn't we use this)
+
+------------------ NOTES FROM OLD DRAFT
 ## Low Refresh Rate
 The first big interesting thing about E-Ink Screens is their refresh-rate. These screens normally have a refresh rate of 5fps at most (the highest I've ever seen was around 11fps), the larger they get the slower this gets. This obviously restricts our uses of them, we can't show video, fast changing animations or anything that updates too fast.
 
