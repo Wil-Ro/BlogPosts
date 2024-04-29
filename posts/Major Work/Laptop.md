@@ -80,5 +80,23 @@ I bought the board and headers and after soldering them on I was left with a dev
 ![An image of my new board from above after re-soldering](p2ppyBoard1.jpg)
 ![An image of my new board from the side after re-soldering](p2ppyBoard2.jpg)
 ![An image of my new board from the other side after re-soldering](p2ppyBoard3.jpg)
+
+## Progress Update 15/3/2024 - Apline Linux... Again!
+All of my hardware is ready, so I started working on the software, doing this I realised my Pi was taking up more energy than I'd hoped. To fix this I switched to a lighter operating system. Alpine Linux supports Rpi arm chips and I'm familiar with it from making [the server for this website](ThisSite.html). So I figured I'd give it a go.
+
+## Progress Update 29/4/2024 - Wood working and a broken psu
+Over the Easter holidays, I met up with a friend and we started working on the wooden body of the device. We produced two rough base plates and started work milling corner blocks. We got half of these blocks done before I head to head back to uni. The amazing workshop engineers at the university were willing to finish off the last two blocks for me, which I drilled holes into and added threaded inserts to, resulting in this.
+
+![An image of some wooden blocks on wooden base-plates](woodblock1.jpg)
+![A close up of a block](woodblock2.jpg)
+
+This is far from done, but its enough to build a basic frame I can use, I want to take something to [emf camp](https://www.emfcamp.org/), so I might try build it with just this for now.
+
+As a side note, during this time I also worked on the software a bit. Doing this I ended up plugging in the pi to both the battery pack and mains, this lead to the pi charging the battery pack in reverse and popping one of its components.
+
+![A board with a burnt out chip](board.jpg)
+
+Luckily the manufacturer has a components section on their data-sheet so hopefully I can replace this.
+
 ## Summary
 This project was being worked on at the same time as my [plant monitoring system](PlantSystem.html) though at a somewhat slower pace. Now my final design is finished and ready I hope to build it physically soon. I have plans to do this over the Easter break with a friend.
