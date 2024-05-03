@@ -92,11 +92,13 @@ Over the Easter holidays, I met up with a friend and we started working on the w
 
 This is far from done, but its enough to build a basic frame I can use, I want to take something to [emf camp](https://www.emfcamp.org/), so I might try build it with just this for now.
 
-As a side note, during this time I also worked on the software a bit. Doing this I ended up plugging in the pi to both the battery pack and mains, this lead to the pi charging the battery pack in reverse and popping one of its components.
+As a side note, during this time I also worked on the software a bit. Doing this I ended up plugging in the pi to both the battery pack and mains, this lead to the pi charging the battery pack in reverse and popping one of its components and possibly damaging another.
 
 ![A board with a burnt out chip](board.jpg)
 
-Luckily the manufacturer has a components section on their data-sheet so hopefully I can replace this.
+Luckily the manufacturer was really kind and gave me the names of the components I needed to replace. I ordered them from Ebay and one arrived quite quickly (the other I'm still waiting on). These were smd components and I'd never soldered anything other than through-hole before so I did some reasearch and found a great video by a channel called [eleneasy](https://www.youtube.com/watch?v=dDhwwoKaCjY) which prepped me perfectly. I gave it a go on the first component that arrived and although it hasn't been tested yet, I'm quite happy with the result considering its my first time.
+
+![The burnt out board with a chip replaced, the job is somewhat messy but clean enough to probably work](smdsolderingp.jpg)
 
 ## Summary
 This project was being worked on at the same time as my [plant monitoring system](PlantSystem.html) though at a somewhat slower pace. Now my final design is finished and ready I hope to build it physically soon. I have plans to do this over the Easter break with a friend.
