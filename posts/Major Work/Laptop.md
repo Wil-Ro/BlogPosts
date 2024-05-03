@@ -98,7 +98,7 @@ As a side note, during this time I also worked on the software a bit. Doing this
 
 Luckily the manufacturer was really kind and gave me the names of the components I needed to replace. I ordered them from Ebay and one arrived quite quickly (the other I'm still waiting on). These were smd components and I'd never soldered anything other than through-hole before so I did some reasearch and found a great video by a channel called [eleneasy](https://www.youtube.com/watch?v=dDhwwoKaCjY) which prepped me perfectly. I gave it a go on the first component that arrived and although it hasn't been tested yet, I'm quite happy with the result considering its my first time.
 
-![The burnt out board with a chip replaced, the job is somewhat messy but clean enough to probably work](smdsolderingp.jpg)
+![The burnt out board with a chip replaced, the job is somewhat messy but clean enough to probably work](smdsoldering.jpg)
 
 ## Summary
 This project was being worked on at the same time as my [plant monitoring system](PlantSystem.html) though at a somewhat slower pace. Now my final design is finished and ready I hope to build it physically soon. I have plans to do this over the Easter break with a friend.
