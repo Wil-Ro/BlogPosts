@@ -83,6 +83,11 @@ img{
     margin-top: 10px;
 }
 
+nav hr{
+    margin-top: 30px;
+    border-top: solid 4px;
+}
+
 .contacts{
     display: flex;
     gap: 5px;
@@ -98,6 +103,12 @@ select {
   border: none;
   background: none;
   color: var(--text);
+  transition: background-color 0.5s, color 0.5s;
+}
+
+select:hover {
+   background-color: var(--accent);
+   color: var(--back);
 }
 
 
