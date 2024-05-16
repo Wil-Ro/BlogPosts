@@ -94,6 +94,12 @@ img{
     margin-top: 30px;
 }
 
+select {
+  border: none;
+  background: none;
+  color: var(--text);
+}
+
 
 .webring{
     position: fixed;
