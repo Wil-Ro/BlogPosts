@@ -1,18 +1,24 @@
+function switchColorCSS(sheet){
+	document.getElementById('colors').setAttribute('href',sheet);
+	localStorage.setItem("color", sheet);
+}
+
+
 function updateColor(){
 	var newSheet = document.getElementById("pageColor").value;
-	document.getElementById('colors').setAttribute('href',newSheet);
-
-
-	localStorage.setItem("color", newSheet);
+	switchColorCSS(newSheet)
 }
 
 function updateColorWithCookieCheck()
 {
 	var cookieColor = localStorage.getItem("color");
-	if (cookieColor != null){
-		document.getElementById("pageColor").value = cookieColor;
-	}
+	document.getElementById("pageColor").value = cookieColor;
 	updateColor();
 }
 
-window.onload = () => {updateColorWithCookieCheck();};
+window.onload = () => {
+var transition = document.body.style.getPropertyValue("transition");
+document.body.style.setProperty("transition", "none");
+updateColorWithCookieCheck();
+setTimeout((transition)=>{document.body.style.setProperty("transition", transition);}, 1000);
+};
