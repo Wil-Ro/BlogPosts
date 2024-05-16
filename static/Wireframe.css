@@ -104,15 +104,11 @@ img{
 }
 
 .webring h2{
-    background-color: var(--back);
-    
     font-size: 1rem;
     margin: 0;
 }
 
 .webringContent{
-    background-color: var(--back);
-
     display: flex;
     gap: 5px;
     justify-content: space-between;
