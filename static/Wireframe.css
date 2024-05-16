@@ -64,13 +64,13 @@ article li{
 
 pre
 {
-    background-color: lightgray;
+    background-color: var(--accentBack);
     padding: 3px;
     overflow: auto;
 }
 
 blockquote{
-    background-color: lightgray;
+    background-color: var(--accentBack);
     padding: 3px;
     margin: 0;
 }
