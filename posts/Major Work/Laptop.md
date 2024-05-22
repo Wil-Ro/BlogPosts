@@ -100,5 +100,26 @@ Luckily the manufacturer was really kind and gave me the names of the components
 
 ![The burnt out board with a chip replaced, the job is somewhat messy but clean enough to probably work](smdsoldering.jpg)
 
+## Progress Update 22/5/2024 - Board repair, board breaking, drivers and woodworking
+Since I've got back to University, a lot of progress has been made. The board was just repaired with the help of a university technician, they lent me a microscope for soldering some smaller components back in place and also let me use their heat-plate to remove and replace the broken chip. In this process a leg got snapped off another chip though! This chip cant be shipped in unless its from China, especially not in the time-frame I need. I'm going to try find one on another board somewhere. If I cant its just two mosfets in an ic so I'll try bodge something.
+
+Outside of this, the E-Ink display is now working on Alpine Linux! This took a day or so of driver experimentation, you can find my notes on how to get this working [here](AlpineEinkDrivers.html) if you want to do this yourself. The screen can now run the demo, I also learnt the c library to use the drivers and logged that [here](UnderstandingWaveshaerEinkDrivers.html) (in a new category for the nav menu!). This library still needs implementing, for now I'm going to try use [PaperTTY](https://github.com/joukos/PaperTTY/tree/main) for the sake of time.
+
+![A 7inch e-ink screen running a demo](p2ppyScreen.png)
+
+I also got most of the case finished off, the entire thing is fully modular save two pieces which involve glue (baseplate everything builds onto and an element of the screen base). All that's left to do on this is the cage around the screen which should be done soon. The University has a laser-cutter which I've been given access to and this massively sped things up.
+
+![A wooden case for my computer, the length of a forearm and the width of two, it has two wooden flaps on hinges where a screen could be attached](p2ppyCase2.jpg)
+![A wooden case for my computer](p2ppyCase1.jpg)
+
+An hour or so before uploading this update I was trying to get PaperTTY working and accidentally destroyed all the data on my Alpine setup. This sounds insane but its quite easy to do as I'm running Alpine diskless so no changes are saved until you run a specific commit command which creates an "overlay" that sits over the top of the normal system, and if this commit goes wrong it can destroy your previous overlay meaning you don't have one anymore. I always hear Linux users talk about checking backups and just backing up in general, now I've experienced first hand why.
+
+I'm very lucky I saved my notes on how to get the E-Ink drivers working otherwise I would have had a terrible time. I've now realised I should be backing up my overlays and I've also created a setup script for getting certain things like the e-ink drivers working. When I'm sure this works I'll add it to my [notes on setting up E-Ink drivers for Alpine](AlpineEinkDrivers.html) 
+
+**Nearly finished**, left to do is:
+- Finish the screen cage
+- replace or repair the 8205a chip with the broken leg
+- get PaperTTY working
+
 ## Summary
-This project was being worked on at the same time as my [plant monitoring system](PlantSystem.html) though at a somewhat slower pace. Now my final design is finished and ready I hope to build it physically soon. I have plans to do this over the Easter break with a friend.
+This project's first working full version is nearing completion! Afterwards I intend to make small improvements but these won't likely be logged here. Keep an eye out for a rewrite of this page soon, this one will be archived
