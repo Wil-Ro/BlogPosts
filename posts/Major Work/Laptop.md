@@ -121,5 +121,20 @@ I'm very lucky I saved my notes on how to get the E-Ink drivers working otherwis
 - replace or repair the 8205a chip with the broken leg
 - get PaperTTY working
 
+# Progress Update 26/05/2024 - all hardware done, screen drivers left to be finished
+Firstly, I managed to find a replacement 8205a on E-Bay coming from Essex, this arrived and has been successfully soldered onto the board. One of its legs looks like its touching a pad it shouldn't but I checked it with a multi-meter and it seems fine.
+
+Secondly, the screen cage is finished! it looks quite nice outside of the baseplate being made out of wood with an odd sheen finish to it. Its pretty sturdy and I'm surprised at how strong the hinge is for what is essentially just a screw.
+
+Finally, the screen has been rewired to use individual cables for each pin rather than its hat, this gives me a whole set of gpio pins for me to use if I ever want to which is nice and it gives the board a bit more space.
+
+I also got PaperTTY installed after a lot of installation error squishing and library hunting. I haven't tested it yet or put it on start-up but it seems to be installed fine. Next update will be the final one with the working device hopefully :)
+
+<div style="display:flex; gap: 10px;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rrXvB-o--s?si=wryiOo-9o6X8CdGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5XT0m0wvv8Q?si=meRZiHbuFyERtbnh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Summary
 This project's first working full version is nearing completion! Afterwards I intend to make small improvements but these won't likely be logged here. Keep an eye out for a rewrite of this page soon, this one will be archived
