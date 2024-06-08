@@ -5,13 +5,13 @@ This is my site where I log my work for myself and for me to show to others.
 
 >This site is generated procedurally from markdown though C++ code I've written. It's hosted using [lighttpd](https://www.lighttpd.net/) on an old laptop through my router. You can find the code for it [here](https://github.com/Wil-Ro/Blog) and a more in-depth talk about why I did that [here](/ThisSite.html).
 
-
+<br>
 
 >If you're not a fan of the light mode of this site, or want a lower contrast version for accessibility, you can alter the theme in "Page Settings" at the bottom of the menu
 
 ## Who I am
 
-I'm Rosia Evans, I'm a programmer studying at a small university in Wales but taking a year out to work in industry in farming robotics. In my spare time I'm teaching myself to create robotics and exploring how we can use them in ways that help our environment.
+I'm Rosia Evans, I'm a programmer studying at a small university in Wales but taking a year out to work in industry in farming robotics. In my spare time I'm teaching myself to create robots and exploring how we can use them in ways that help our environment.
 
 
 ![image of me](profile.jpeg)
