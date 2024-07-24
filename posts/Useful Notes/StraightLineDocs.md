@@ -17,6 +17,11 @@ I can argue this on my own without external backup but something to send people 
 
 [Philosophy Tube - Gender](https://www.youtube.com/watch?v=koud7hgGyQ8)
 
+### Climate change
+#### We're seeing the effects of climate change right now
+
+[The Guardian - Large-scale and intense wildfires carrying smoke across northern hemisphere](https://www.theguardian.com/world/article/2024/jul/23/large-scale-and-intense-wildfires-carrying-smoke-across-northern-hemisphere)
+
 ### UBI has benefits and is doable
 #### What is UBI spent on?
 
