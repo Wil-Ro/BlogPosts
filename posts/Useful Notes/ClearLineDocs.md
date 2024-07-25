@@ -23,7 +23,7 @@ I can argue this on my own without external backup but something to send people 
 [The Guardian - Large-scale and intense wildfires carrying smoke across northern hemisphere](https://www.theguardian.com/world/article/2024/jul/23/large-scale-and-intense-wildfires-carrying-smoke-across-northern-hemisphere)
 
 
-[The Guardian - Firefighters try to save Jasper as fast-moving wildfire hits Canadian resort town](https://www.theguardian.com/world/article/2024/jul/25/jasper-alberta-canada-wildfire)
+[The Guardian - Firefighters try to save Jasper as fast-moving wildfire hits Canadian resort town](https://www.theguardian.com/world/article/2024/jul/25/jasper-alberta-canada-wildfire) --- [Mastodon thread of photos from same wild fires](https://mastodon.social/@Snowshadow/112847636621240368)
 
 ### UBI has benefits and is doable
 #### What is UBI spent on?
