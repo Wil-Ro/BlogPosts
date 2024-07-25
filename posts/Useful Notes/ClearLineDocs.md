@@ -1,6 +1,6 @@
 P
-# Straight Line Docs
-These are notes on important things to help keep my thinking in a logical, straight line. Normally these notes will revolve around politics and ideas around how life should be lived. Expect my thoughts on Ego, Automation, Political Change, Gender and anything else I feel is important.
+# Clear Line Docs
+These are notes on important things to help keep my thinking in a logical, clear line. Normally these notes will revolve around politics and ideas around how life should be lived. Expect my thoughts on Ego, Automation, Political Change, Gender and anything else I feel is important.
 
 ------
 
@@ -17,7 +17,7 @@ I can argue this on my own without external backup but something to send people 
 
 [Philosophy Tube - Gender](https://www.youtube.com/watch?v=koud7hgGyQ8)
 
-### Climate change
+### Climate change is a genuine issue and it needs large scale action from world governments immediately
 #### We're seeing the effects of climate change right now
 
 [The Guardian - Large-scale and intense wildfires carrying smoke across northern hemisphere](https://www.theguardian.com/world/article/2024/jul/23/large-scale-and-intense-wildfires-carrying-smoke-across-northern-hemisphere)
