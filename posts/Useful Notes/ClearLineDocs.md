@@ -17,6 +17,13 @@ I can argue this on my own without external backup but something to send people 
 
 [Philosophy Tube - Gender](https://www.youtube.com/watch?v=koud7hgGyQ8)
 
+#### Transgenderism has been around since we've had the concept of gender roles
+- the roman emperor elagabalus tried to find a doctor who would give him a vagina
+- Even Bochan, Kalonymus ben Kalonymus, a jewish poem where the writer expresses their deep desires to be a woman
+- the priests of Inanna took women's names and dressed in women's clothing [trans writings from From the cuneiform translations interpreted in
+Blossom of Bone by Randy Connor](https://faerywolf.com/the-origin-of-the-queer-ones/)
+
+
 ### Climate change is a genuine issue and it needs large scale action from world governments immediately
 #### We're seeing the effects of climate change right now
 
