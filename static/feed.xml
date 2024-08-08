@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed rel="self" xmlns="http://www.w3.org/2005/Atom">
 
   <title>Rosia Evans Blog</title>
   <link href="https://rosia.me/"/>
-  <updated>2024-08-01T19:34:50Z</updated>
+  <updated>2024-08-08T09:58:14Z</updated>
   <author>
     <name>Rosia Evans</name>
   </author>
@@ -19,6 +19,7 @@
 <id>https://rosia.me/CatTowerDefence.html</id>
 <updated>2023-09-23T12:40:24Z</updated>
 <content type="html">
+<![CDATA[
 <h1>Tower defence game</h1>
 <h2>What it is</h2>
 <p>A tower defence game, mostly created over the course of 1-2 months to allow myself and a friend to gain a better understanding of python. Players can place cats to attack balls of wool rolling along a path. Cats can
@@ -29,6 +30,7 @@ add maps of their own design. Although a functional prototype was created, no ar
 <p>Almost all of the project was a team effort with I and my friend sharing ideas and working on the same code in a pair programming set-up, swapping and working off each others ideas. I proposed alot of the original logic behind the movement
 systems, the level select menu and the file structure for custom maps along with alot of the smaller features such as tower placement and selection. These proposals were built off by both myself and my partner as the system
 evolved in complexity and scale.</p>
+]]>
 </content>
 </entry><entry>
 <title>EPQ Project</title>
@@ -36,6 +38,7 @@ evolved in complexity and scale.</p>
 <id>https://rosia.me/EPQProject.html</id>
 <updated>2023-09-23T12:42:03Z</updated>
 <content type="html">
+<![CDATA[
 <h1>EPQ Project</h1>
 <h2>What it is</h2>
 <p>This project was completed for my Extended Project Equalification (also known as EPQ). During the EPQ, a student will pick a subject of their choice, research it and then either write a paper or create a piece of media
@@ -48,6 +51,7 @@ real world. Due to time restraints, the physics simulation was released separate
 <p>Over the course of 4-5 months I researched and taught myself a large amount of vector maths, the basics of C++, the basics of physics engines, a large portion of Blender and Unreal Engines toolset,
 a small amount of 3D rendering theory and the basics of game design for virtual reality. Using this I created a fully functional VR interaction system with many custom made assets, materials and classes as well as a
 very basic physics engine built in C++.</p>
+]]>
 </content>
 </entry><entry>
 <title>AardvarkXR</title>
@@ -55,6 +59,7 @@ very basic physics engine built in C++.</p>
 <id>https://rosia.me/Aardvark.html</id>
 <updated>2023-09-23T12:35:38Z</updated>
 <content type="html">
+<![CDATA[
 <h1>AardvarkXR</h1>
 <h2>What it is</h2>
 <p>Aardvark is a development framework, currently in alpha, designed to allow users to open small apps (known as gadgets) over the top of virtual reality programs or games. You could think of it as a mobile phone for use within
@@ -78,6 +83,7 @@ rewrite large sections of it. After a week or so I produced a gesture system tha
 developers to tweak the gesture to ensure it worked for their specific controllers.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9uG2HSavA1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FzQcE9UeOao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+]]>
 </content>
 </entry><entry>
 <title>Mind Map Maker</title>
@@ -85,6 +91,7 @@ developers to tweak the gesture to ensure it worked for their specific controlle
 <id>https://rosia.me/MindMap.html</id>
 <updated>2023-10-11T12:47:33Z</updated>
 <content type="html">
+<![CDATA[
 <h1>Mind Map Maker</h1>
 <p>This project was completed for my computer science A-level. Students had to find a client and create a program for them, I chose my sister and created software to help her revise for her GCSE's.
 The software had to:</p>
@@ -112,6 +119,7 @@ finding myself weighing up the strengths and weaknesses of different libraries, 
 <li>A settings panel</li>
 <li>The ability to navigate and magnify the mindmap</li>
 </ul>
+]]>
 </content>
 </entry><entry>
 <title>Welcome!</title>
@@ -119,6 +127,7 @@ finding myself weighing up the strengths and weaknesses of different libraries, 
 <id>https://rosia.me/index.html</id>
 <updated>2023-10-11T12:33:54Z</updated>
 <content type="html">
+<![CDATA[
 <h1>Welcome!</h1>
 <p>I'm Rosia Evans, this is my site where I log my work for myself and for me to show to others.</p>
 <p>This site is generated procedurally from markdown though C++ code I've written and hosted using <a href="https://www.lighttpd.net/">lighttpd</a> on an old laptop through my router. You can find the code for it <a href="https://github.com/Wil-Ro/Blog">here</a> and a more indepth talk about it on <a href="/ThisSite.html">this blog post</a>.</p>
@@ -139,6 +148,7 @@ finding myself weighing up the strengths and weaknesses of different libraries, 
 <p>&lt;-</p>
 <h2>DISCLAMER! SITE STILL IN PROGRESS</h2>
 <p>This is all a bit everywhere rn, the css will be given some frills at somepoint soon</p>
+]]>
 </content>
 </entry><entry>
 <title>This Site</title>
@@ -146,6 +156,7 @@ finding myself weighing up the strengths and weaknesses of different libraries, 
 <id>https://rosia.me/ThisSite.html</id>
 <updated>2023-10-08T22:45:47Z</updated>
 <content type="html">
+<![CDATA[
 <h1>This Site</h1>
 <p>This site is a small project I worked on over the course of a few weeks while first returning back to university during my second year. Its hosted on a small <a href="https://www.lighttpd.net/">lighttpd</a> server running on an old laptop from around 2003. I wrote a small C++ program that takes in MarkDown files and builds them into webpages. Everytime the server turns on it pulls from a repo, builds the code and runs it, this then builds the website and puts them in a folder for lighttpd to host.</p>
 <h2>The Thoughts Behind This</h2>
@@ -171,6 +182,7 @@ The driving idea behind this being that we've had computers that are powerful en
 <h2>Alpine Linux</h2>
 <p>Alpine Linux was my first non-ubuntu linux experience. I really enjoyed learning about it and found its documentation really helpful and detailed with almost everything I needed. The OS itself was really simple and friendly too which was very nice. I did find I was very suprised by what was and wasnt included as I slowly learnt what came from debian and what didnt. Alpine didnt have sudo, any sort of file transfer systems or any of bash's basic features and learning that these didnt exist then seeing the base programs they were built out of was really interesting (for example sudo seems like its just a complex wrapper for su, a command that switches users).</p>
 <p>Alpine essentially, from a users perspective, is made of busybox (a very basic shell that I also found runs within ubuntu after a kernel panic) and openrc which just controls how background services run. These two programs did everything I needed with openrc managing lighttpd and busybox letting me interact with the os and running a startup script for me to pull from github and rebuild/run the C++ code.</p>
+]]>
 </content>
 </entry><entry>
 <title>CNSelfie</title>
@@ -178,6 +190,7 @@ The driving idea behind this being that we've had computers that are powerful en
 <id>https://rosia.me/CNCMachine.html</id>
 <updated>2023-10-11T12:32:04Z</updated>
 <content type="html">
+<![CDATA[
 <h1>CNSelfie</h1>
 <p>This was my first project created at my univeristy's robotics society. Created as an interactive robot for kids coming to university open days,
 it would display a camera view and detect outlines then when a photo was taken with it it would generate gcode from these lines to direct
@@ -190,6 +203,7 @@ so ended up adding alot of extra methods and rewriting a few of them.</p>
 <p>This GCode was then sent by <a href="https://github.com/winder/Universal-G-Code-Sender">Universal Gcode Sender</a> to our CNC machine.</p>
 <h2>Gallery</h2>
 <p>fkuck</p>
+]]>
 </content>
 </entry><entry>
 <title>aberSailBot</title>
@@ -197,6 +211,7 @@ so ended up adding alot of extra methods and rewriting a few of them.</p>
 <id>https://rosia.me/SailBot.html</id>
 <updated>2023-10-08T22:53:52Z</updated>
 <content type="html">
+<![CDATA[
 <h1>aberSailBot</h1>
 <p>SailBot is a university society I joined in my first year. They build and race robot sailboats. I joined the society as it seemed like a really interesting challenge building robots that have to deal with the insane variety of variables the outside world offers. Especially in the ocean where you rely on those to move.</p>
 <p>I spent the first year in a team of 3 building a small boat we called &quot;floating point&quot;. We started from a polystyrene hull and had to do a number of steps to build it, none of which any of us had any experience with:</p>
@@ -209,6 +224,7 @@ so ended up adding alot of extra methods and rewriting a few of them.</p>
 </ul>
 <p>We were building these along with other teams, the idea being at the end of the building period they would be tested and raced in a small still water pool near the local docks. By the end of the year only our team and one other had finished our boats so we tested them in a less competetive manner at the docks. Our boat failed to find a gps connection and was unable to said but the developer from the other team lent us his software which allowed remote control over wifi and that was used instead.</p>
 <p><img src="BoatingTeams.jpg" alt="Image of both teams on the day"></p>
+]]>
 </content>
 </entry><entry>
 <title>Aber Robotics Soc</title>
@@ -216,6 +232,7 @@ so ended up adding alot of extra methods and rewriting a few of them.</p>
 <id>https://rosia.me/RoboticsSociety.html</id>
 <updated>2023-10-11T12:32:01Z</updated>
 <content type="html">
+<![CDATA[
 <h1>Aber Robotics Soc</h1>
 <p>The Aber Robotics Society is a small society of friends at my university who meet every wednesday in a robotics lab and work on their projects. I originally joined to learn basic electronics but found a lot of good friends there and a really nice sense of community.</p>
 <p>While there I have learnt most of my knowledge of robotics and electronics and worked on a number of projects including a basic two wheeled remote control robot (my first project where I learnt the basics of electronics), a program that takes photos of people, converts the images to lines and g-code and sends them to a CNC machine that draws the images and a watering system for plants I keep at my house.</p>
@@ -226,6 +243,7 @@ so ended up adding alot of extra methods and rewriting a few of them.</p>
 <li><a href="/CNCMachine.html">CNSelfie</a></li>
 <li>thats it</li>
 </ul>
+]]>
 </content>
 </entry><entry>
 <title>aberCompSoc</title>
@@ -233,9 +251,11 @@ so ended up adding alot of extra methods and rewriting a few of them.</p>
 <id>https://rosia.me/aberCompSoc.html</id>
 <updated>2023-10-08T23:05:20Z</updated>
 <content type="html">
+<![CDATA[
 <h1>aberCompSoc</h1>
 <p>This year I have become president of my university's compting society or &quot;aberCompSoc&quot;. The society is mostly a body to provide a space for students to program and meet other passionate programmers to share and work on projects with. Additionally to this we are also a branch of the <a href="https://www.bcs.org/">BVS</a> who we often run events with including hosting talks from professionals with links to the universities and also &quot;Show and Tell&quot; events where programmers can run short talks about the work they've been doing.</p>
 <p>My hope for the society is to provide the spaces coding clubs used to provide for the coding community at my old schools, where students would just sit and have conversations around their passions whilst also working on their projects and making friends they could work together with and feel comfortable around.</p>
+]]>
 </content>
 </entry><entry>
 <title>SBS Internship</title>
@@ -243,6 +263,7 @@ so ended up adding alot of extra methods and rewriting a few of them.</p>
 <id>https://rosia.me/SBSWork.html</id>
 <updated>2023-09-23T12:46:18Z</updated>
 <content type="html">
+<![CDATA[
 <h1>SBS Internship</h1>
 <h2>What it is</h2>
 <p>Inbetween my time at University and Post-16 I took a gap year where I interned at Skipton Building Society as a software tester. This was a paid 9 month internship where I waspushed for automated testing
@@ -272,6 +293,7 @@ stronger understanding of APIs and back-end programming which I had never previo
 <p>Multiple times during my work there I was requested to stay as an apprentice rather than go to University, I did turn this offer down but I intend to work for them over summers and during my industry year at
 University as I found it an incredibly friendly and safe feeling place with a really healthy culture. Their attitude towards change was very exciting to work in and multiple times I found I would make a mistake
 and be worried my teams would be annoyed or upset only to find they wouldnt even consider it an issue and with zero negative responses they would just ask how they could help to fix it and help me plan a solution.</p>
+]]>
 </content>
 </entry><entry>
 <title>Example Post</title>
@@ -279,6 +301,7 @@ and be worried my teams would be annoyed or upset only to find they wouldnt even
 <id>https://rosia.me/TestFullArticle.html</id>
 <updated>2023-09-29T12:49:11Z</updated>
 <content type="html">
+<![CDATA[
 <h1>Example Post</h1>
 <p>This is where a basic summary of the post would go if I wanted to add one</p>
 <p>Normal text would then go here wow</p>
@@ -297,5 +320,6 @@ and be worried my teams would be annoyed or upset only to find they wouldnt even
 <p>...
 moomin</p>
 <p><img src="moomin.png" alt="moomin"></p>
+]]>
 </content>
 </entry></feed>
