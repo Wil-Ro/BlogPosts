@@ -85,7 +85,7 @@ img{
 
 nav hr{
     margin-top: 30px;
-    border-top: solid 2px var(--text);
+    border-top: solid 1px var(--text);
 }
 
 .contacts{
