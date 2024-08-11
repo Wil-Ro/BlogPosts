@@ -41,7 +41,7 @@ In the year 2000 fujifilm created the perfect storage medium and "big sd card" h
 
 ![A SmartMedia card, similar to an SD card but twice the size, its metal contacts are cut in a wavy pattern](SmartMediaCard.jpg)
 
-You can't buy USB SmartMedia card readers, I personally couldn't find and original ones that came with the cameras online. This was a dilemma but my saving grace was EMFCamp2024. [EMFCamp](https://www.emfcamp.org/) is a hacker festival that goes on every two years in Britain. It has a great second hand store where people can donate old tech they want to get rid of, that ranges from server racks to radioactive isotopes (see the toot [here](orphanedSourceToot.png), see the Wikipedia entry [here](https://en.wikipedia.org/wiki/List_of_orphan_source_incidents#2020s)). Someone happened to be selling a front panel for a tower pc that had a slot for a SmartMedia card!! It was designed to plug directly into a motherboard but it was good enough for me.
+You can't buy USB SmartMedia card readers, I personally couldn't find any original ones that came with the cameras online. This was a dilemma but my saving grace was EMFCamp2024. [EMFCamp](https://www.emfcamp.org/) is a hacker festival that goes on every two years in Britain. It has a great second hand store where people can donate old tech they want to get rid of, that ranges from server racks to radioactive isotopes (see the toot [here](orphanedSourceToot.png), see the Wikipedia entry [here](https://en.wikipedia.org/wiki/List_of_orphan_source_incidents#2020s)). Someone happened to be selling a front panel for a tower pc that had a slot for a SmartMedia card!! It was designed to plug directly into a motherboard but it was better than nothing!
 
 I took it home and realised it plugged into the USB section of the motherboard. After a bit of research I realised this plug had the exact same layout as a USB cable. I figured I'd try to wire it to a different weird USB plug I had, since that went so well last time. It didn't work, I got that classic power surge error and not much more. A few days later I was walking down a street and saw a bin filled with a load of identical circuit boards with USB cables coming off them (?????). Like the gremlin I am I grabbed one and cut the cable off it, took it home and wired it up. For some reason this one worked!
 
@@ -75,6 +75,11 @@ Here's the initial pictures I took on my first battery charge.
 ![A photo of my reflection in a window above my bed, in the reflection Im lying on my bed, holding the camera and taking the photo. The quality is grainy and the colour is slightly yellow](oldPhoto3.jpg)
 ![A blurry photo of myself, my hands rest on my hips against a bland wall with a door in the background,the image is out of focus](oldPhoto4.jpg)
 
+
+
+Notes:
+talk about how cool the internals of this camera are
+mention this lad: http://people.surfaceeffect.com/pete/tech/nouserservice/mx2700/
 
 
  
