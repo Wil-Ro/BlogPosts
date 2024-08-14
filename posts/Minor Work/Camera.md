@@ -64,7 +64,11 @@ I intended to fix this, but that would take a while, so as a temporary solution 
 ![A tape covered battery with wires coming out the back, connecting to a new 18650 in a holder](batteryLies2.jpg)
 ![A retro digital camera with wires coming from its battery slot, the wires connect to a new 18650 in its holder](batteryLies3.jpg)
 
-This worked but only slightly. The camera would boot but couldn't switch modes and would crash when I tried to take a photo. My guess it is wasn't providing enough power or the tiny little circuit board attached to the old cell might have actually been important.
+This worked but only slightly. The camera would boot but couldn't switch modes and would crash when I tried to take a photo. My guess it is wasn't providing enough power or the tiny little circuit board attached to the old cell might have actually been more than just an over-discharge protection circuit.
+
+Weirdly, re-trying this a day later it worked so my guess is the connection was just off, here's a photo, taken with the camera, of the battery whilst its powering the camera. 
+
+![a photo of a 18650 battery cell, it sits in a small battery seat with a wire coming off either end. Its backed by a colorful carpet](cameraBattery.jpg)
 
 This is where we're up to, will update when I've got further!
 
