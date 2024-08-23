@@ -21,6 +21,27 @@ I can argue this on my own without external backup but something to send people 
 - the priests of Inanna took women's names and dressed in women's clothing [trans writings from From the cuneiform translations interpreted in
 Blossom of Bone by Randy Connor](https://faerywolf.com/the-origin-of-the-queer-ones/)
 
+### The Cass Review is not only bigoted but incredibly flawed
+Points taken from TrashFutures "The Devon Report" episode and 
+transactually's [Cass Review Analysis](https://transactual.org.uk/wp-content/uploads/TransActual-Briefing-on-Cass-Review.pdf)
+
+- Included no trans people in its review, did however include conversion therapy advocates in its advisory board, these people previously fought against the conversion therapy ban in england. Also includes interviews and data from catholic extremists from the US who helped florida's board of healthcare dismantle trans-rights. The author is a known friend of a number of trans hate groups.
+- The paper refused to take into account any research not written in english, anything not written in the last two years apart from one that was disproven and used statistical fiddling to argue against HRT treatment. She also referenced right-wing youtube videos. One paper was  used to argue points that its own author has specifically said it shouldn't be used to argue. It holds an obvious bias in the standards it holds pro-trans points to vs anti-trans points.
+- It contains a large number of un-sourced and un-substantiated points. Out of 103 studies on puberty blockers mentioned, only 2 were considered valid enough to be used, these were unsurprisingly the two that supported Cass' claims. The British Medical Association has disavowed it and some of its suggestions have previously been disavowed by essentially all trans health-care bodies (WPATH, asiaPATH, EPATH, PATHA) as "un-evidenced, ludicrous and dangerous"
+
+
+Issues with what it says
+
+- The Cass Review suggests no one below 25 should be allowed to make decisions around their transition, people can drive, get a large number of cosmetic surgeries and literally join the army and go to war way before this. It implies that purely by being trans you lose a certain cognitive function to make decisions for yourself. It also robs trans teens of any chance of a pleasant youth.
+- The review suggests punishing trans people who get help privately by refusing to interact with them around trans care ever again, this includes things like getting your child on puberty blockers.
+- It suggests banning social transition for children without clinical oversight, this is insane and unenforcable. By this it means stopping them dressing how they want, growing or cutting their hair, changing their name or pronouns. Some of these things are so subjective, what's a girls haircut?? This is what was disavowed by all global trans health groups.
+
+Extra details
+
+- At one point the review mentions that its suspicious that there are no double blind studies on trans peoples transitions, something which is literally impossible as someone cant transition or not transition without knowing it. 
+- It complains that Gender Identity Clinics refused to share information on their patients with Cass without their patients consent. Cass is someone who is a individual unaffiliated with the NHS and legally cannot be given the data under GDPR
+- Cass claims there's an epidemic of children being mis-diagnosed, the NHS gets through about 100 children a year in terms of gender therapy
+
 
 ## Climate change is a genuine issue and it needs large scale action from world governments immediately
 ### We're seeing the effects of climate change right now
