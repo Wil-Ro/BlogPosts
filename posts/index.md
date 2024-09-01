@@ -25,7 +25,7 @@ My physical work involves:
 - Learning how robotics can work in [real world environments](SailBot.html)
 - Experimenting with how we can use computers in [environmentally sustainable](Permacomputing.html) ways,
 - Teaching myself to create [low-power/high efficiency programs](ThisSite.html) and robotics,
-- Learning about ideas behind farming automation and how we can produce more food whilst keeping our methods sustainable, becoming an active member of communities such as [GOAT](https://goatech.org/) and [TwistedFields](https://community.twistedfields.com/t/welcome-to-the-twisted-fields-community-forum/7),
+- Learning about ideas behind farming automation and how we can produce more food whilst keeping our methods sustainable, becoming an active member of communities such as [TwistedFields](https://community.twistedfields.com/t/welcome-to-the-twisted-fields-community-forum/7),
 
 I've been programming for most of my life. My main language is C++, but I also have multiple years of experience in C#, Python and Java and some loose experience in Typescript and C.
 
