@@ -28,3 +28,5 @@ When your done, remember, libertarians are people who think they
 sprung from their own asshole, the free market is a plot to
 exploit your sorry ass, and all the real elite programmers are
 [wobblies](https://en.wikipedia.org/wiki/Industrial_Workers_of_the_World). - [Craig Brozefsky of Red Bean Software](https://www.nongnu.org/ratpoison/inspiration.html)
+
+maybe mention ego, how programmers as a field feel that they have the ability to shape the future, why we feel that way despite it barely relating to our work. how ego leads us to have bad ideas about the future
