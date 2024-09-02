@@ -30,3 +30,6 @@ exploit your sorry ass, and all the real elite programmers are
 [wobblies](https://en.wikipedia.org/wiki/Industrial_Workers_of_the_World). - [Craig Brozefsky of Red Bean Software](https://www.nongnu.org/ratpoison/inspiration.html)
 
 maybe mention ego, how programmers as a field feel that they have the ability to shape the future, why we feel that way despite it barely relating to our work. how ego leads us to have bad ideas about the future
+
+compare to oil barons a little? kiss a little?
+oil barons come with ego, programmers feel even for earnt through work so different type of ego
