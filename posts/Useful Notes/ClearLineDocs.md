@@ -49,6 +49,7 @@ Before my transition I lived for 5 years thinking about gender almost every day,
 - Gender and how people relate to it
 - Aesthetic and capitalism's exploitation of it
 - Identity and Belonging
+- The buzz word "woke" and why it's developed in people's consciousness 
 
 ## Climate change is a genuine issue and it needs large scale action from world governments immediately
 ### We're seeing the effects of climate change right now
