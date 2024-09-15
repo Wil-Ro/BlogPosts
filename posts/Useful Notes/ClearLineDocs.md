@@ -42,6 +42,15 @@ Extra details
 - It complains that Gender Identity Clinics refused to share information on their patients with Cass without their patients consent. Cass is someone who is a individual unaffiliated with the NHS and legally cannot be given the data under GDPR
 - Cass claims there's an epidemic of children being mis-diagnosed, the NHS gets through about 100 children a year in terms of gender therapy
 
+### Transgenderism has given me a unique worldview
+Before my transition I lived for 5 years thinking about gender almost every day, I noticed it everywhere and came out of it with my own views I developed from my experiences. These include:
+
+- Gender and what it is
+- Gender and how people relate to it
+- Aesthetic and capitalism's exploitation of it
+- Identity and Belonging
+- The buzz word "woke" and why it's developed in people's consciousness 
+- Femininity
 
 ## Climate change is a genuine issue and it needs large scale action from world governments immediately
 ### We're seeing the effects of climate change right now

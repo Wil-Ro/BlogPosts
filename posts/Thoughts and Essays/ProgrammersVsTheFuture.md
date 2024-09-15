@@ -70,6 +70,13 @@ Maybe I should take something from this and reflect it on myself, if I share mor
 
 deeply upsetting that neither ada nor babbage cared about automating labour in any fashion other than to save money. Babbage saved money, ada didnt care and just wanted to understand the world which on one hand, based, but also fam come on
 
+
+maybe mention ego, how programmers as a field feel that they have the ability to shape the future, why we feel that way despite it barely relating to our work. how ego leads us to have bad ideas about the future
+
+compare to oil barons a little? kiss a little?
+oil barons come with ego, programmers feel even for earnt through work so different type of ego
+
+
 > Breathe lightly when needed, deeply when able. Treasure the air, and treasure each other, and work towards a world where we can provide for everyone the things that cannot be provided by a machine.
 - Jacob Geller " Fixing My Brain with Automated Therapy"
 
