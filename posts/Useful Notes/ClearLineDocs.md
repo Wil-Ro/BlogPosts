@@ -17,7 +17,7 @@ I can argue this on my own without external backup but something to send people 
 
 ### Transgenderism has been around since we've had the concept of gender roles
 - the roman emperor elagabalus tried to find a doctor who would give him a vagina
-- Even Bochan, Kalonymus ben Kalonymus, a jewish poem where the writer expresses their deep desires to be a woman
+- [Even Bochan, Kalonymus ben Kalonymus](https://www.sefaria.org/sheets/115323?lang=bi), a jewish poem where the writer expresses their deep desires to be a woman
 - the priests of Inanna took women's names and dressed in women's clothing [trans writings from From the cuneiform translations interpreted in
 Blossom of Bone by Randy Connor](https://faerywolf.com/the-origin-of-the-queer-ones/)
 
@@ -52,6 +52,9 @@ Before my transition I lived for 5 years thinking about gender almost every day,
 - The buzz word "woke" and why it's developed in people's consciousness 
 - Femininity
 
+### Transgender people are not inherently mentally unwell (Why is this something I have to argue????)
+- [trans suicide rates increase as countries pass more anti-trans laws](https://www.npr.org/sections/shots-health-news/2024/09/25/nx-s1-5127347/more-trans-teens-attempted-suicide-after-states-passed-anti-trans-laws-a-study-shows)
+
 ## Climate change is a genuine issue and it needs large scale action from world governments immediately
 ### We're seeing the effects of climate change right now
 
@@ -59,6 +62,9 @@ Before my transition I lived for 5 years thinking about gender almost every day,
 
 
 [The Guardian - Firefighters try to save Jasper as fast-moving wildfire hits Canadian resort town](https://www.theguardian.com/world/article/2024/jul/25/jasper-alberta-canada-wildfire) --- [Mastodon thread of photos from same wild fires](https://mastodon.social/@Snowshadow/112847636621240368)
+
+### We dont need oil to maintain our economy
+todo
 
 ## UBI has benefits and is doable
 ### What is UBI spent on?
