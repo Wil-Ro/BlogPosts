@@ -20,6 +20,7 @@ I can argue this on my own without external backup but something to send people 
 - Even Bochan, Kalonymus ben Kalonymus, a jewish poem where the writer expresses their deep desires to be a woman
 - the priests of Inanna took women's names and dressed in women's clothing [trans writings from From the cuneiform translations interpreted in
 Blossom of Bone by Randy Connor](https://faerywolf.com/the-origin-of-the-queer-ones/)
+- just [this whole wiki page](https://en.m.wikipedia.org/wiki/Fa%CA%BBafafine)
 
 ### The Cass Review is not only bigoted but incredibly flawed
 Points taken from TrashFutures "The Devon Report" episode and 
