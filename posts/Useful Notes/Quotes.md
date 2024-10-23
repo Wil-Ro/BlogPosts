@@ -16,7 +16,7 @@ We believe in: rough consensus and running code" -Dave Clark from ietf (see [rfc
 
 
 ## Pretty Words
-- "fix your hear or die" -Gordon from twin peaks to terfs
+- "fix your heart or die" -Gordon from twin peaks to terfs
 - "when did we decide it was more fun to own everything than take care of it?" -Randy, book of randicus
 - "this is an artist giving their all to their art" -kronenberg on trans people
 - "the smart forager doesn't nesessarily come home with lots of what they want but none of what they dont" -Sophie from Mars, the world isn't ending
