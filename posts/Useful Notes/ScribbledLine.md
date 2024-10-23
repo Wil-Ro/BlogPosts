@@ -6,6 +6,7 @@ This is my scribbled line, its a collection of things I find interesting or want
 - [Clear Line](ClearLine.html), A more strictly outlined set of views I hold, along with evidence I use to justify them to myself.
 - [Quotes](Quotes.html), A list of quotes I like.
 
+----
 ## Important things
 
 ### Writing that permanently altered me
@@ -31,6 +32,8 @@ This is my scribbled line, its a collection of things I find interesting or want
 ### The merits of open source
 - [Predator drones run linux](https://j3s.sh/thought/drones-run-linux-free-software-isnt-enough.html)
 
+
+____
 ## Less important side notes
 
 ### Interesting old internet things
