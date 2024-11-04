@@ -66,6 +66,7 @@ Before my transition I lived for 5 years thinking about gender almost every day,
 
 [The Guardian - Firefighters try to save Jasper as fast-moving wildfire hits Canadian resort town](https://www.theguardian.com/world/article/2024/jul/25/jasper-alberta-canada-wildfire) --- [Mastodon thread of photos from same wild fires](https://mastodon.social/@Snowshadow/112847636621240368)
 
+[Spanish floods 2024 late october, years rain in less than a day, 200+ died](https://www.bbc.co.uk/news/live/cgr0gj2rkk1t)
 ### We dont need oil to maintain our economy
 todo
 

@@ -23,4 +23,4 @@ We believe in: rough consensus and running code" -Dave Clark from ietf (see [rfc
 - You're too fixated on finding a meaning to your existence that you've forgotten to actually exist -samael homesick
 
 ## Things Friends Have Said
-- "Friendship is the perfect middle point between bullying, sexual harassment and love" - William Nielson
+- "Friendship is the perfect middle point between bullying, sexual harassment and love" - William Neilson
