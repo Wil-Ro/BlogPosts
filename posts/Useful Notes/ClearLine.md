@@ -70,14 +70,7 @@ Extra details
 - Cass claims there's an epidemic of children being mis-diagnosed, the NHS gets through about 100 children a year in terms of gender therapy
 
 ### Transgenderism has given me a unique worldview
-Before my transition I lived for 5 years thinking about gender almost every day, I noticed it everywhere and came out of it with my own views I developed from my experiences. These include:
-
-- Gender and what it is
-- Gender and how people relate to it
-- Aesthetic and capitalism's exploitation of it
-- Identity and Belonging
-- The buzz word "woke" and why it's developed in people's consciousness 
-- Femininity
+Before my transition I lived for 5 years thinking about gender almost every day, I noticed it everywhere and came out of it with my own views I developed from my experiences, whether thats gender and what it is, gender and how people relate to it, aesthetic and capitalism's exploitation of it, identity and belonging, the buzz word "woke" and why it's developed in people's consciousness or just flat out the concept of femininity
 
 ### Transgender people are not inherently mentally unwell (Why is this something I have to argue????)
 - [trans suicide rates increase as countries pass more anti-trans laws](https://www.npr.org/sections/shots-health-news/2024/09/25/nx-s1-5127347/more-trans-teens-attempted-suicide-after-states-passed-anti-trans-laws-a-study-shows)
