@@ -1,6 +1,6 @@
 
 # Scribbled Line
-This is my scribbled line, its a collection of things I find interesting or want to remember. Here you can find a good summary of my world views in the writings I find important and things I think are cool.
+This is my scribbled line, its a collection of things I find interesting or want to remember. Here you can find a good summary of my world views in the writings I find important and things I just think are neat.
 
 ## Pages
 - [Clear Line](ClearLine.html), A more strictly outlined set of views I hold, along with evidence I use to justify them to myself.
@@ -13,17 +13,16 @@ This is my scribbled line, its a collection of things I find interesting or want
 - [Kae tempest - A book of traps and lessons](traps-and-lessons/) this poetry is genuinely probably the biggest driver behind a lot of my world views. Whole thing should be experienced in one session, somewhere outdoors alone and dark, whether that's sat outside a pub at night with a drink or in a forest.
 - [silly, goofy article about football in the future](https://www.sbnation.com/a/17776-football)
 
-### General notes
-- [The reckless, infinite scope of web browsers](https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html)
-
-### Healthy conversation and debate
+### Healthy conversation, thought and debate
+- [Cory Dransfeldt - Just Enough News](https://coryd.dev/posts/2024/just-enough-news)
 - [xxiivv - how to have healthy discorse](https://wiki.xxiivv.com/site/discourse.html)
 
 ### The value of other cultures
 - [Twitter thread on african architecture](https://x.com/Vincredible__/status/1167748981188902914)
-- [Factorio hate-post](https://reincantamentox.substack.com/p/drop-13-divine-automation)
 
-### Small web things
+### Anti-Growth, Small-Web, Small-Tech
+- [Factorio hate-post](https://reincantamentox.substack.com/p/drop-13-divine-automation)
+- [The reckless, infinite scope of web browsers](https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html)
 - [Fucking webmaster](https://justinjackson.ca/webmaster/)
 
 ### The value of community
@@ -31,6 +30,8 @@ This is my scribbled line, its a collection of things I find interesting or want
 
 ### The merits of open source
 - [Predator drones run linux](https://j3s.sh/thought/drones-run-linux-free-software-isnt-enough.html)
+- [The sustainability of the commons](https://ploum.net/2024-07-01-opensource_sustainability.html)
+- [How to kill an decentralised network](https://rosia.me:7777/feed/38/entry/1390), a post about how companies purposefully kill off foss software
 
 
 ____
@@ -39,12 +40,14 @@ ____
 ### Interesting old internet things
 - [Red-bean](www.red-bean.com)
 - [Chiark/Greenend](https://www.chiark.greenend.org.uk/)
+- [Old usenet posts I host](UsenetPosts.html)
 
 ### Neat Permacomputing/culture things
 - [Tiny polish farm working on self-automation](https://www.agrokruh.sk/en/technologia/)
 - [Edge Collective](https://edgecollective.io/)
 - [Social media for old photos](https://640x480.net/)
 - [Group that writes low power software (suckless.org)](https://suckless.org/)
+- [Solar powered website/blog about eco-tech](https://solar.lowtechmagazine.com/about/the-solar-website/)
 
 ### Neat programming things
 - [Tetris programming](https://meatfighter.com/tetromino-computer/index.html)
