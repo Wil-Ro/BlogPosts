@@ -2,10 +2,14 @@ P
 
 # _
 
+Hi, I'm Rosia
 
-# Computers should work with and within nature.
-# Computers as a tool can help us automate drudgery.
-# The world we live in needs some work.
+I'm a programmer, I'm slowly starting to think computer are less important now though. The world is getting pretty bad and we need to do something, I don't know what's right and most things I think, end up wrong. But I'm learning and slowly getting there. A few things I do know for sure are:
+
+# The world isn't great right now
+# Technology and change can help
+# Computers are only a miniscule part of the solution
+# Friends are important
 
 I am programming, learning politics, understanding computers as a tool and trying to maintain a balanced social life.
 
@@ -19,6 +23,6 @@ Things I'm proud of:
 My thoughts:
 - [Permacomputing](dfg)
 - [Ego](dfg)
-- [Usenet Posts](dfg)
+- [Scribbled Line](dfg)
 
 [More about me](fdgdfg)
