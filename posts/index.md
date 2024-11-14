@@ -1,37 +1,26 @@
+P
 
-# Welcome!
+# _
 
-This is my site where I log my work for myself and for me to show to others.
+Hi, I'm Rosia
 
->This site is generated procedurally from markdown though C++ code I've written. It's hosted using [lighttpd](https://www.lighttpd.net/) on an old laptop through my router. You can find the code for it [here](https://github.com/Wil-Ro/Blog) and a more in-depth talk about why I did that [here](/ThisSite.html).
+I'm a student into robotics, politics and environmentalism. I spend my time programming, repairing things and trying to balance my overly active social life along with it.
+The world stresses me out quite a bit and I want to help make it better, so I spend a lot of my time thinking about politics. Most of my thoughts turn out to be wrong but I'm slowly getting there.
 
-<br>
+I'm learning to value simplicity, community and things outside of computers and infinite growth.
 
->If you're not a fan of the light mode of this site, or want a lower contrast version for accessibility, you can alter the theme in "Page Settings" at the bottom of the menu
+<img src="profile.jpeg" alt="A photo of me, the photo has the quality of an old film camera, I'm wearing a red coat in a green area with trees and bushes in the background">
 
-## Who I am
+Things I'm proud of:
+- [Self-Built Laptop](fg)
+- [Camera Repair](dfg)
+- [This Site](dfg)
 
-I'm Rosia Evans, I'm a programmer studying at a small university in Wales but taking a year out to work in industry in farming robotics. In my spare time I'm teaching myself to create robots and exploring how we can use them in ways that help our environment.
+My thoughts:
+- [Permacomputing](dfg)
+- [Ego](dfg)
+- [Scribbled Line](dfg)
 
+[More about me](fdgdfg)
 
-![image of me](profile.jpeg)
-
-
-Most of my interests lie in using robotics and computers in farming, exploring how they could help produce more food in a sustainable manner. I feel that computers and automation really could help produce a green
-world where people can easily afford the bare minimum and find themselves comfortable and happy.
-
-My physical work involves:
-
-- Learning how robotics can work in [real world environments](SailBot.html)
-- Experimenting with how we can use computers in [environmentally sustainable](Permacomputing.html) ways,
-- Teaching myself to create [low-power/high efficiency programs](ThisSite.html) and robotics,
-- Learning about ideas behind farming automation and how we can produce more food whilst keeping our methods sustainable, becoming an active member of communities such as [TwistedFields](https://community.twistedfields.com/t/welcome-to-the-twisted-fields-community-forum/7),
-
-I've been programming for most of my life. My main language is C++, but I also have multiple years of experience in C#, Python and Java and some loose experience in Typescript and C.
-
-If you want an outline of my work, these are some things I'm really proud of:
-- [My Previous Job](SBSWork.html)
-- [Plant Care System](PlantSystem.html)
-- [Self-built Laptop](Laptop.html)
-
-To see all of my work, check the navbox
+> If you're not a fan of the light mode of this site, or want a lower contrast version for accessibility, you can alter the theme in "Page Settings" at the bottom of the menu
