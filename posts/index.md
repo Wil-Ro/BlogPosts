@@ -5,7 +5,7 @@ Hi, I'm Rosia
 
 I'm a student into robotics, politics and environmentalism. I spend my time programming, repairing things and trying to balance my overly active social life along with it.
 
-The world stresses me out quite a bit and I want to help make it better, so I spend a lot of my time thinking about in politics or volunteering for activist groups. Most of my thoughts turn out to be off but I'm slowly getting there.
+The world stresses me out quite a bit and I want to help make it better, so I spend a lot of my time reading/thinking about politics or volunteering for activist groups. Most of my thoughts turn out to be off but I'm slowly getting there.
 
 I'm learning to value **simplicity**, **community** and **things outside of infinite growth.**
 
