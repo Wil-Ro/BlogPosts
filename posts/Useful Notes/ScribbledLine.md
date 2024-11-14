@@ -17,7 +17,7 @@ This is my scribbled line, its a collection of things I find interesting or want
 - [Cory Dransfeldt - Just Enough News](https://coryd.dev/posts/2024/just-enough-news)
 - [xxiivv - how to have healthy discorse](https://wiki.xxiivv.com/site/discourse.html)
 
-### The value of other cultures
+### The value of other cultures (especially non-scientific, stereotypically "primitive" cultures)
 - [Study notes on "Against his-story, Against Leviathan!"](http://noblesavagery.blogspot.com/2007/03/fredy-perlmans-against-his-story.html) (I haven't read these notes, only the actual book but I imagine it gets the point across). This is possibly the strongest narrative for properly emotionally integrating this point into your world-view, though the book itself is incredibly biased and a bit unhinged. Would recommend chapter 23 specifically.
 - [Twitter thread on african architecture](https://x.com/Vincredible__/status/1167748981188902914)
 
