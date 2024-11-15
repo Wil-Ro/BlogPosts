@@ -16,6 +16,12 @@ For a less structured set of views, see the [Scribbled Line](ScribbledLine.html)
 [The Guardian - Firefighters try to save Jasper as fast-moving wildfire hits Canadian resort town](https://www.theguardian.com/world/article/2024/jul/25/jasper-alberta-canada-wildfire) --- [Mastodon thread of photos from same wild fires](https://mastodon.social/@Snowshadow/112847636621240368)
 
 [Spanish floods 2024 late october, years rain in less than a day, 200+ died](https://www.bbc.co.uk/news/live/cgr0gj2rkk1t)
+### Climate change is an actual issue that will kill millions if not billions
+- Housing
+- Farming
+- Clean water
+You cannot rely on tech as a magic fix all to solve these issues, some of them are inherently political issues that come from people management, not tech. Stop treating tech as [an endings machine](https://www.youtube.com/watch?v=bORpyNbIDhM&t=152s) that will solve all our issues. You just use it as an excuse to emotionally avoid the issue. Accept this *is* an issue, feel that dread, hold it and let it drive you to make positive change both within your community and outside of it.
+
 ### We dont need oil to maintain our economy
 todo
 
