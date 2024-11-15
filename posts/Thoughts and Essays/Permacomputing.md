@@ -2,6 +2,8 @@
 # Permacomputing
 My thoughts on permacomputing, the space its currently in and where it could go in the future
 
+> Yo! Please note that the permacomputing community has changed and improved itself quite a bit since I last saw it! I'm intending to update this at somepoint when I have the time. Check their wiki out and have a look around the community, form your own opinions :)
+
 ## What is Permacomputing?
 Permacomputing is a really interesting concept that I came across sometime around 2021-2022. Its a movement based around environmentally sustainable ways of using computers originating from the ideas behind [Permaculture](https://en.wikipedia.org/wiki/Permaculture) (a set of ideas around sustainable small scale farming and land management.).
 Its very much defined by its community who are constantly discussing it and the directions it could take as-well as implementing its concepts into their work. That community's [wiki](http://permacomputing.net/) describes it as so:

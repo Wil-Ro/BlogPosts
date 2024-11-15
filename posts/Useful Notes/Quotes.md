@@ -13,6 +13,7 @@ We believe in: rough consensus and running code" -Dave Clark from ietf (see [rfc
 - "Any Technology Indistinguishable From Magic is Hiding Something" -[jason.xyz](jason.xya)
 - "Governments exist for the good of all, if they arnt that then they're a tyrrany that should be overthrown" -12 bytes Page 40
 - "We live in capitalism. Its power seems inescapable. So did the divine right of kings. Any human power can be resisted and changed by human beings." - The classic Usrula K. Le Guin quote
+- "He was not a cold-blooded rationalist. He was no calculating machine. He was a great humanist whose religion lay in loving his fellow men and trying to serve them... He knelt reverently in respect to a friend or friend's faith, but he never pretended to be anything other than what he was, a humanist." - Jennie Lee (wife) describing Aneurin Bevan after his death. In my opinion, a solid description of what we should aim to be.z
 
 
 

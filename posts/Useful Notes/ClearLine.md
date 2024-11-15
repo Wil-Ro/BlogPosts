@@ -6,6 +6,30 @@ For a less structured set of views, see the [Scribbled Line](ScribbledLine.html)
 
 ------
 
+
+## Climate change is a genuine issue and it needs large scale action from world governments immediately
+### We're seeing the effects of climate change right now
+
+[The Guardian - Large-scale and intense wildfires carrying smoke across northern hemisphere](https://www.theguardian.com/world/article/2024/jul/23/large-scale-and-intense-wildfires-carrying-smoke-across-northern-hemisphere)
+
+
+[The Guardian - Firefighters try to save Jasper as fast-moving wildfire hits Canadian resort town](https://www.theguardian.com/world/article/2024/jul/25/jasper-alberta-canada-wildfire) --- [Mastodon thread of photos from same wild fires](https://mastodon.social/@Snowshadow/112847636621240368)
+
+[Spanish floods 2024 late october, years rain in less than a day, 200+ died](https://www.bbc.co.uk/news/live/cgr0gj2rkk1t)
+### We dont need oil to maintain our economy
+todo
+
+## UBI has benefits and is doable
+### What is UBI spent on?
+
+[OpenResearch - Key Findings: Spending](https://www.openresearchlab.org/findings/key-findings-spending) (alternatively, this is also evidence that UBI is good for the economy as it shows money given is spent)
+
+## Capitalism needs altering, if not replacing
+### Capitalism isn't the default
+Trade has existed for a very long time but generally until the industrial revolution in the 17-1800s a lot of people basically didn't use money for anything other than large acts. They'd use common land and their gardens to graze cows harvest wood for fires and grow food. Only during [enclosure](https://en.wikipedia.org/wiki/Enclosure) did people get forced out of this and made reliant on money and work. 
+
+A good book for this would be Jeanette Wintersons essay "A loom with a view". A whole book about the idea of capitalism being the default is Mark Fishers "Capitalist Realism"
+
 ## Transgenderism is good
 ### Anyone anti-trans is likely also bigoted in other manners
 
@@ -51,25 +75,3 @@ Before my transition I lived for 5 years thinking about gender almost every day,
 ### Transgender people are not inherently mentally unwell (Why is this something I have to argue????)
 - [trans suicide rates increase as countries pass more anti-trans laws](https://www.npr.org/sections/shots-health-news/2024/09/25/nx-s1-5127347/more-trans-teens-attempted-suicide-after-states-passed-anti-trans-laws-a-study-shows)
 
-## Climate change is a genuine issue and it needs large scale action from world governments immediately
-### We're seeing the effects of climate change right now
-
-[The Guardian - Large-scale and intense wildfires carrying smoke across northern hemisphere](https://www.theguardian.com/world/article/2024/jul/23/large-scale-and-intense-wildfires-carrying-smoke-across-northern-hemisphere)
-
-
-[The Guardian - Firefighters try to save Jasper as fast-moving wildfire hits Canadian resort town](https://www.theguardian.com/world/article/2024/jul/25/jasper-alberta-canada-wildfire) --- [Mastodon thread of photos from same wild fires](https://mastodon.social/@Snowshadow/112847636621240368)
-
-[Spanish floods 2024 late october, years rain in less than a day, 200+ died](https://www.bbc.co.uk/news/live/cgr0gj2rkk1t)
-### We dont need oil to maintain our economy
-todo
-
-## UBI has benefits and is doable
-### What is UBI spent on?
-
-[OpenResearch - Key Findings: Spending](https://www.openresearchlab.org/findings/key-findings-spending) (alternatively, this is also evidence that UBI is good for the economy as it shows money given is spent)
-
-## Capitalism needs altering, if not replacing
-### Capitalism isn't the default
-Trade has existed for a very long time but generally until the industrial revolution in the 17-1800s a lot of people basically didn't use money for anything other than large acts. They'd use common land and their gardens to graze cows harvest wood for fires and grow food. Only during [enclosure](https://en.wikipedia.org/wiki/Enclosure) did people get forced out of this and made reliant on money and work. 
-
-A good book for this would be Jeanette Wintersons essay "A loom with a view". A whole book about the idea of capitalism being the default is Mark Fishers "Capitalist Realism"
