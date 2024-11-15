@@ -2,7 +2,7 @@ P
 # Clear Line Docs
 These are notes on important things to help keep my thinking in a logical, clear line. Normally these notes will revolve around politics and ideas around how life should be lived. Expect my thoughts on Ego, Automation, Political Change, Gender and anything else I feel is important. The format generally follows a topic and then points relating to that topic I want to be able to confidently hold.
 
-For a less structures set of views, see the [Scribbled Line](ScribbledLine.html)
+For a less structured set of views, see the [Scribbled Line](ScribbledLine.html)
 
 ------
 
