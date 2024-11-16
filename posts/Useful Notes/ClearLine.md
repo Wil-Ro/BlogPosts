@@ -32,7 +32,7 @@ It will involve:
 - Unbreathable air
 - Economic collapse from resource shortages and lack of healthy workers
 
-> At 2 degrees, 400 million more people will suffer from water scarcity. Major cities in the equatorial band will become un-livably hot. Even in northern latitudes, heatwaves will kill thousands each summer. There would be 32 times as many extreme heatwaves in India, each give times as long, exposing 93 times more people. 
+> At 2 degrees, 400 million more people will suffer from water scarcity. Major cities in the equatorial band will become un-livably hot. Even in northern latitudes, heatwaves will kill thousands each summer. There would be 32 times as many extreme heatwaves in India, each 5 times as long, exposing 93 times more people. 
 
 > This is our best case scenario
 
