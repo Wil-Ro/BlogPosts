@@ -17,13 +17,35 @@ For a less structured set of views, see the [Scribbled Line](ScribbledLine.html)
 
 [Spanish floods 2024 late october, years rain in less than a day, 200+ died](https://www.bbc.co.uk/news/live/cgr0gj2rkk1t)
 ### Climate change is an actual issue that will kill millions if not billions
-- Housing
-- Farming
-- Clean water
-You cannot rely on tech as a magic fix all to solve these issues, some of them are inherently political issues that come from people management, not tech. Stop treating tech as [an endings machine](https://www.youtube.com/watch?v=bORpyNbIDhM&t=152s) that will solve all our issues. You just use it as an excuse to emotionally avoid the issue. Accept this *is* an issue, feel that dread, hold it and let it drive you to make positive change both within your community and outside of it.
+To paraphrase "The Uninhabitable Earth" by [David Wallace Wells](https://en.wikipedia.org/wiki/David_Wallace-Wells) (well respected climate journalist)
+> Global warming is not an arctic saga unfolding remotely. It is not exclusively a matter of sea level and coastlines, it is an enveloping crisis sparing no place and no life un-deformed.
 
-### We dont need oil to maintain our economy
-todo
+> There is no analogue to the scale or scope in human history.
+
+It will involve:
+- Heat Death
+- Mass Starvation
+- Mass dehydration/mass clean water shortages
+- Poisoned, un-farmable top soil
+- Drowning
+- Wildfires
+- Unbreathable air
+- Economic collapse from resource shortages and lack of healthy workers
+
+> At 2 degrees, 400 million more people will suffer from water scarcity. Major cities in the equatorial band will become un-livably hot. Even in northern latitudes, heatwaves will kill thousands each summer. There would be 32 times as many extreme heatwaves in India, each give times as long, exposing 93 times more people. 
+
+> This is our best case scenario
+
+> At 3 degrees, Southern Europe would be in permanent drought, the average drought in central America would last 19 months longer and in the Caribbean 21 months longer. In northern Africa the figure is 60 months longer (5 years). The areas burnt each year by wild fires would double in the Mediterranean and sextuple or more in the US.
+
+> At 4 degrees, there would be 8 million more cases of Dengue fever (tropic mosquito virus) each year in Latin America alone and close to annual global flooding crises. There could be 9% more heat-related deaths. Damages from river flooding would grow 30 fold in Bangladesh, 20 fold in India and as much as 60 fold in the uk.
+
+> Globally damages could pass $600 trillion - more than twice the wealth that exists in the world today. Conflict and warfare could double.
+
+You cannot rely on tech as a magic fix all to solve these issues, some of them are inherently political issues. Even if the tech does exist, we literally do not have the time to develop it. Stop treating tech as [an endings machine](https://www.youtube.com/watch?v=bORpyNbIDhM&t=152s) that will solve all our issues. You just use it as an excuse to emotionally avoid the issue. Accept this *is* an issue, feel that dread, hold it and let it drive you to make positive change both within your community and outside of it.
+
+### We don't need oil to maintain our economy
+1. We aren't slowly scaling down, we are increasing out oil usages. More than half of the co2 exhaled in the the atmosphere has come from the last 3 decades. We have done as much to damage the earth since Al Gore published his first book on climate change than in all of history before it was published.
 
 ## UBI has benefits and is doable
 ### What is UBI spent on?
