@@ -6,7 +6,7 @@
 I'm Rosia Evans, I'm a programmer studying at a small university in Wales but taking a year out to work in industry in farming robotics. In my spare time I'm teaching myself to create robots and exploring how we can use them in ways that help our environment.
 
 
-![image of me](profile2.gif)
+![image of me](profile2.pngq)
 
 
 Most of my interests lie in using robotics and computers in farming, exploring how they could help produce more food in a sustainable manner. I feel that computers and automation really could help produce a green
