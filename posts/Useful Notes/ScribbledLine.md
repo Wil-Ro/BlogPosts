@@ -28,6 +28,7 @@ This is my scribbled line, its a collection of things I find interesting or want
 
 ### The value of community
 - [Transcender manifesto](https://digital-anthropology.me/2019/03/13/a-transcender-manifesto-for-a-world-beyond-capitalism-a-seed/)
+- [The sky is falling, we've got this](https://margaretkilljoy.substack.com/p/the-sky-is-falling-weve-got-this)
 
 ### The merits of open source
 - [Predator drones run linux](https://j3s.sh/thought/drones-run-linux-free-software-isnt-enough.html)
@@ -59,3 +60,10 @@ ____
 - [Email wont go further than 500 miles](500-miles.txt)
 - [Wifi only works when its raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 - [Magic switch](magic-switch.txt)
+
+
+### Other
+Deescalate all conflict that isn’t with the enemy.
+
+Note to add this to the kindness essay when you have time
+[this same line of thinking applies to violence as well… do not ever engage in violence first. however, if you are attacked, fight back. protect yourself and those you care about from physical and mental harm always.](https://elenafortune.com/manifesto)

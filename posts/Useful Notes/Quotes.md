@@ -19,9 +19,10 @@ We believe in: rough consensus and running code" -Dave Clark from ietf (see [rfc
 
 ## Pretty Words
 - "Fix your heart or die" -Gordon from twin peaks to terfs
-- "When did we decide it was more fun to own everything than take care of it?" -Randy, book of randicus
+- “the old world is dying, and the new world struggles to be born: now is the time of monsters.” -Antonio Gramsci
 - "This is an artist giving their all to their art" -kronenberg on trans people
 - "The smart forager doesn't nesessarily come home with lots of what they want but none of what they dont" -Sophie from Mars, the world isn't ending
+- "When did we decide it was more fun to own everything than take care of it?" -Randy, book of randicus
 - "You're too fixated on finding a meaning to your existence that you've forgotten to actually exist" -samael homesick
 
 ## Things Friends Have Said
