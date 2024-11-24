@@ -62,8 +62,3 @@ ____
 - [Magic switch](magic-switch.txt)
 
 
-### Other
-Deescalate all conflict that isn’t with the enemy.
-
-Note to add this to the kindness essay when you have time
-[this same line of thinking applies to violence as well… do not ever engage in violence first. however, if you are attacked, fight back. protect yourself and those you care about from physical and mental harm always.](https://elenafortune.com/manifesto)
