@@ -75,6 +75,7 @@ I can argue this on my own without external backup but something to send people 
 - the priests of Inanna took women's names and dressed in women's clothing [trans writings from From the cuneiform translations interpreted in
 Blossom of Bone by Randy Connor](https://faerywolf.com/the-origin-of-the-queer-ones/)
 - just [this whole wiki page](https://en.m.wikipedia.org/wiki/Fa%CA%BBafafine)
+- [Hermaphroditus](https://en.wikipedia.org/wiki/Hermaphroditus) Hermaphrodite greek god. And [Aphroditus](https://en.wikipedia.org/wiki/Aphroditus) Cross-dressing male version of Aphrodite who was known to be nuturing. [Small image with references and info](aphroditus.png)
 
 ### The Cass Review is not only bigoted but incredibly flawed
 Points taken from TrashFutures "The Devon Report" episode and 
