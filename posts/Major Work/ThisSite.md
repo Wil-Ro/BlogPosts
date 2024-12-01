@@ -3,6 +3,8 @@
 
 This site is a small project I worked on over the course of a few weeks while first returning back to university during my second year. Its hosted on a small [lighttpd](https://www.lighttpd.net/) server running on an old laptop from around 2003. I wrote a small C++ program that takes in MarkDown files and builds them into webpages. During start-up, or alternatively on request, the server pulls this code along with the markdown from separate repos, builds the code and runs it. This then builds the website from that markdown and puts the pages in a folder for Lighttpd to host.
 
+> For similar ideologies around hosting, see the [homebrewserverclub manifesto](https://homebrewserver.club/) and the [feminist server manifesto](https://areyoubeingserved.constantvzw.org/Summit_afterlife.xhtml)
+
 ## The Thoughts Behind This
 
 During my first year at university I read a lot around the concept of [Permacomputing](http://permacomputing.net/). This is a set of ideas around reusing old computers and writing small systems that avoid [code rot](https://en.wikipedia.org/wiki/Software_rot) whilst using as little power as possible.
