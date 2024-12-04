@@ -18,12 +18,18 @@ We believe in: rough consensus and running code" -Dave Clark from ietf (see [rfc
 
 
 ## Pretty Words
+### Us
+- "You're too fixated on finding a meaning to your existence that you've forgotten to actually exist" -samael homesick
+- "How strange it is to be anything at all" - [Closeted gay christian child in the youtube comments of a twilight video](howStrangeItIs.jpg)
 - "Fix your heart or die" -Gordon from twin peaks to terfs
-- “the old world is dying, and the new world struggles to be born: now is the time of monsters.” -Antonio Gramsci
 - "This is an artist giving their all to their art" -kronenberg on trans people
+
+### Politics And Making Things
+- “the old world is dying, and the new world struggles to be born: now is the time of monsters.” -Antonio Gramsci
 - "The smart forager doesn't nesessarily come home with lots of what they want but none of what they dont" -Sophie from Mars, the world isn't ending
 - "When did we decide it was more fun to own everything than take care of it?" -Randy, book of randicus
-- "You're too fixated on finding a meaning to your existence that you've forgotten to actually exist" -samael homesick
+- "Silver bullets are for killing werewolves, not building technology" -Jim Nielsen in [Contract is clarifying](https://blog.jim-nielsen.com/2024/contrast-is-clarifying/)
+
 
 ## Things Friends Have Said
 - "Brains are just machines that have thoughts, we don't really have much of a choice there, what we do have a choice about is what the body does with those thoughts. We exist in the interface between a thinking machine and the physical world" - Bob Vaughan-Williams
