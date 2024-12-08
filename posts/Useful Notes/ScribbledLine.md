@@ -20,7 +20,7 @@ This is my scribbled line, its a collection of things I find interesting or want
 - [xxiivv - how to have healthy discorse](https://wiki.xxiivv.com/site/discourse.html)
 
 ### The value of other cultures (especially non-scientific, stereotypically "primitive" cultures)
-- [Study notes on "Against his-story, Against Leviathan!"](http://noblesavagery.blogspot.com/2007/03/fredy-perlmans-against-his-story.html) This is possibly the strongest narrative for properly emotionally integrating this point into your world-view, though the book itself is incredibly biased and a bit unhinged. Would recommend chapter 1 or 23 specifically, 23 especially.
+- [Against his-story, Against Leviathan!](http://noblesavagery.blogspot.com/2007/03/fredy-perlmans-against-his-story.html) This is possibly the strongest narrative for properly emotionally integrating this point into your world-view, though the book itself is incredibly biased and a bit unhinged. Would recommend chapter 1 or 23 specifically, 23 especially.
 - [Twitter thread on african architecture](https://x.com/Vincredible__/status/1167748981188902914)
 
 ### Anti-Growth, Small-Web, Small-Tech
