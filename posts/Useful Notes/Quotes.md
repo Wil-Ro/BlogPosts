@@ -34,4 +34,3 @@ We believe in: rough consensus and running code" -Dave Clark from ietf (see [rfc
 
 ## Things Friends Have Said
 - "Brains are just machines that have thoughts, we don't really have much of a choice there, what we do have a choice about is what the body does with those thoughts. We exist in the interface between a thinking machine and the physical world" - Bob Vaughan-Williams
-- "Friendship is the perfect middle point between bullying, sexual harassment and love" - William Neilson
