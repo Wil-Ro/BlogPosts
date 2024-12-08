@@ -30,7 +30,7 @@ We believe in: rough consensus and running code" -Dave Clark from ietf (see [rfc
 - "The smart forager doesn't nesessarily come home with lots of what they want but none of what they dont" -Sophie from Mars, the world isn't ending
 - "When did we decide it was more fun to own everything than take care of it?" -Randy, book of randicus
 - "Silver bullets are for killing werewolves, not building technology" -Jim Nielsen in [Contract is clarifying](https://blog.jim-nielsen.com/2024/contrast-is-clarifying/)
-
+- "The ultra-centralism asked by Lenin is full of **the sterile spirit of the overseer**. It is not a positive and creative spirit. Lenin's concern is not so much to make the activity of the party more fruitful as to control the party--to narrow the movement rather than to develop it, to bind rather than to unify it..." -Rosa Luxemburg on her contemporary, Lenin
 
 ## Things Friends Have Said
 - "Brains are just machines that have thoughts, we don't really have much of a choice there, what we do have a choice about is what the body does with those thoughts. We exist in the interface between a thinking machine and the physical world" - Bob Vaughan-Williams
