@@ -12,7 +12,7 @@ This is my scribbled line, its a collection of things I find interesting or want
 ### Writing that permanently altered me
 - [Kae tempest - A book of traps and lessons](traps-and-lessons/) this poetry is genuinely probably the biggest driver behind a lot of my world views. Whole thing should be experienced in one session, somewhere outdoors alone and dark, whether that's sat outside a pub at night with a drink or in a forest.
 - [silly, goofy article about football in the future](https://www.sbnation.com/a/17776-football) 
-- [Contrapoints](https://m.youtube.com/watch?v=RTRT794IQBg) helped me realise how I want to experience love and helped me learn selr-respect
+- [Contrapoints](https://m.youtube.com/watch?v=RTRT794IQBg) helped me realise how I want to experience love and helped me learn to respect myself, though nowadays I've realised theyre a pretty flawed person sometimes
 - [CJt](https://m.youtube.com/watch?v=UvYcunuF3Eo)[heX](https://m.youtube.com/watch?v=GZg_36utl2w) helped me work out how to exist in the moment and just actually feel things (the first of the two linked videos, second is a better summary but came out much later)
 
 ### Healthy conversation, thought and debate
