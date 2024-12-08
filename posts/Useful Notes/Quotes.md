@@ -23,7 +23,7 @@ We believe in: rough consensus and running code" -Dave Clark from ietf (see [rfc
 - "How strange it is to be anything at all" - [Closeted gay christian child in the youtube comments of a twilight video](howStrangeItIs.jpg)
 - "Fix your heart or die" -Gordon from twin peaks to terfs
 - "This is an artist giving their all to their art" -kronenberg on trans people
-- "I declare that the capitalists are wrong. Human nature is to form bonds, to build together. This is why we have societies, technology, language. Do you know that the most developed parts of our brains are the language centers? They are freakishly large, evolved specifically to allow us to collaborate, share knowledge, build an understanding of the world together to collectively survive. We are a social species, and that is our strength." -Zach Tsiakalis-Brown in his [Squid Game is Radical and Heres Why](https://www.youtube.com/watch?v=hngipmtw28s&t=336s)
+- "I declare that the capitalists are wrong. Human nature is to form bonds, to build together. This is why we have societies, technology, language. Do you know that the most developed parts of our brains are the language centers? They are freakishly large, evolved specifically to allow us to collaborate, share knowledge, build an understanding of the world together to collectively survive. We are a social species, and that is our strength." -[Zach Tsiakalis-Brown](https://www.youtube.com/watch?v=hngipmtw28s)/[Zulubo](https://www.zulubo.com/#about)
 
 ### Politics And Making Things
 - “the old world is dying, and the new world struggles to be born: now is the time of monsters.” -Antonio Gramsci
