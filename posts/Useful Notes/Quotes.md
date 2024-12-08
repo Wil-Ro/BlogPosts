@@ -13,7 +13,7 @@ We believe in: rough consensus and running code" -Dave Clark from ietf (see [rfc
 - "Any Technology Indistinguishable From Magic is Hiding Something" -[jason.xyz](jason.xya)
 - "Governments exist for the good of all, if they arnt that then they're a tyrrany that should be overthrown" -12 bytes Page 40
 - "We live in capitalism. Its power seems inescapable. So did the divine right of kings. Any human power can be resisted and changed by human beings." - The classic Usrula K. Le Guin quote
-- "He was not a cold-blooded rationalist. He was no calculating machine. He was a great humanist whose religion lay in loving his fellow men and trying to serve them... He knelt reverently in respect to a friend or friend's faith, but he never pretended to be anything other than what he was, a humanist." - Jennie Lee (wife) describing Aneurin Bevan after his death. In my opinion, a solid description of what we should aim to be.z
+- "He was not a cold-blooded rationalist. He was no calculating machine. He was a great humanist whose religion lay in loving his fellow men and trying to serve them... He knelt reverently in respect to a friend or friend's faith, but he never pretended to be anything other than what he was, a humanist." - Jennie Lee (wife) describing Aneurin Bevan after his death. In my opinion, a solid description of what we should aim to be.
 
 
 
@@ -23,6 +23,7 @@ We believe in: rough consensus and running code" -Dave Clark from ietf (see [rfc
 - "How strange it is to be anything at all" - [Closeted gay christian child in the youtube comments of a twilight video](howStrangeItIs.jpg)
 - "Fix your heart or die" -Gordon from twin peaks to terfs
 - "This is an artist giving their all to their art" -kronenberg on trans people
+- "I declare that the capitalists are wrong. Human nature is to form bonds, to build together. This is why we have societies, technology, language. Do you know that the most developed parts of our brains are the language centers? They are freakishly large, evolved specifically to allow us to collaborate, share knowledge, build an understanding of the world together to collectively survive. We are a social species, and that is our strength." -Zach Tsiakalis-Brown in his [Squid Game is Radical and Heres Why](https://www.youtube.com/watch?v=hngipmtw28s&t=336s)
 
 ### Politics And Making Things
 - “the old world is dying, and the new world struggles to be born: now is the time of monsters.” -Antonio Gramsci
