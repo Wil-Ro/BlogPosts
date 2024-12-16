@@ -23,7 +23,7 @@ We believe in: rough consensus and running code" -Dave Clark from ietf (see [rfc
 - "You're too fixated on finding a meaning to your existence that you've forgotten to actually exist" -samael homesick
 - "How strange it is to be anything at all" - [Closeted gay christian child in the youtube comments of a twilight video](howStrangeItIs.jpg)
 - "Fix your heart or die" -Gordon from twin peaks to terfs
-- "This is an artist giving their all to their art" -kronenberg on trans people
+- "This is an artist giving their all to their art" -Cronenberg on trans people
 - "I declare that the capitalists are wrong. Human nature is to form bonds, to build together. This is why we have societies, technology, language. Do you know that the most developed parts of our brains are the language centers? They are freakishly large, evolved specifically to allow us to collaborate, share knowledge, build an understanding of the world together to collectively survive. We are a social species, and that is our strength." -[Zach Tsiakalis-Brown](https://www.youtube.com/watch?v=hngipmtw28s)/[Zulubo](https://www.zulubo.com/#about)
 
 ### Politics And Making Things
