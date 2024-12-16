@@ -58,6 +58,7 @@ ____
 - [Tetris programming](https://meatfighter.com/tetromino-computer/index.html)
 - [Internet archiologist](http://art.teleportacia.org/olia.html)
 - [Bikeshedding](https://bikeshed.com/)
+- [OurPaint - FOSS Node based painting software](https://www.wellobserve.com/index.php?post=20221222155743)
 
 ### Stories where programs defy reality
 - [Email wont go further than 500 miles](500-miles.txt)
