@@ -19,6 +19,7 @@ We believe in: rough consensus and running code" -Dave Clark from ietf (see [rfc
 
 ## Pretty Words
 ### Us
+- "Art is a natural human behaviour, not a skill. Stop trying to be good at smiling" -A random stranger on mastodon who I cant find anymore
 - "You're too fixated on finding a meaning to your existence that you've forgotten to actually exist" -samael homesick
 - "How strange it is to be anything at all" - [Closeted gay christian child in the youtube comments of a twilight video](howStrangeItIs.jpg)
 - "Fix your heart or die" -Gordon from twin peaks to terfs

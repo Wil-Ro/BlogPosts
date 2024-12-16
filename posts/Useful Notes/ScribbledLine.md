@@ -27,6 +27,7 @@ This is my scribbled line, its a collection of things I find interesting or want
 - [Factorio hate-post](https://reincantamentox.substack.com/p/drop-13-divine-automation)
 - [The reckless, infinite scope of web browsers](https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html)
 - [Fucking webmaster](https://justinjackson.ca/webmaster/)
+- [Machines of Loving Grace by Reagan Bird](https://www.clunyjournal.com/p/machines-of-loving-grace) - The utter evisceration of one of my core beliefs through empathetic story-telling
 
 ### The value of community
 - [Transcender manifesto](https://digital-anthropology.me/2019/03/13/a-transcender-manifesto-for-a-world-beyond-capitalism-a-seed/)
