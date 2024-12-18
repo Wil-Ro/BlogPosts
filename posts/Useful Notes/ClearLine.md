@@ -47,6 +47,9 @@ You cannot rely on tech as a magic fix all to solve these issues, some of them a
 ### We don't need oil to maintain our economy
 1. We aren't slowly scaling down, we are increasing out oil usages. More than half of the co2 exhaled in the the atmosphere has come from the last 3 decades. We have done as much to damage the earth since Al Gore published his first book on climate change than in all of history before it was published.
 
+### Climate activism helps
+For me personally, climate activism mostly helps my anxieties. But outside of that, it can legitimately cause change. Just Stop Oil recently released [this](jso-evidence.png).
+
 ## UBI has benefits and is doable
 ### What is UBI spent on?
 
