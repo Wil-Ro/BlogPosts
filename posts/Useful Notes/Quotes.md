@@ -7,8 +7,7 @@ A collection of quotes that hit me especially hard or that I think are important
 - "We reject: Kings, Presidents and Voting. 
 We believe in: rough consensus and running code" -Dave Clark from ietf (see [rfc7282](https://datatracker.ietf.org/doc/html/rfc7282))
 - "When you have a good idea, it’s probably because this idea is already in the zeitgeist of the time. I don’t believe in "ownership" or even "stealing" when it’s about ideas." -[ploum](https://ploum.net/2024-10-20-20years-linux-desktop-part1.html)
-
--"i'd encourage you to give it a shot and watch more of it before you decide it sucks
+- "i'd encourage you to give it a shot and watch more of it before you decide it sucks
 because while you will invariably conclude that it sucks, your reasons for thinking it sucks might very well change" -juice in 20020 chapter 3
 - "When you vote with your dollar, people with more money get more votes" -alt-right play book, always a bigger fish 19:30
 - "A machine built to end war is always a machine built to continue war" -ultrakill 7-4 book
