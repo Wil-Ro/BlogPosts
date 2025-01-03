@@ -11,9 +11,10 @@ This is my scribbled line, its a collection of things I find interesting or want
 
 ### Writing that permanently altered me
 - [Kae tempest - A book of traps and lessons](traps-and-lessons/) this poetry is genuinely probably the biggest driver behind a lot of my world views. Whole thing should be experienced in one session, somewhere outdoors alone and dark, whether that's sat outside a pub at night with a drink or in a forest.
-- [silly, goofy article about football in the future](https://www.sbnation.com/a/17776-football) 
+- [silly, goofy article about football in the future](https://www.sbnation.com/a/17776-football) showed me that you should try to find wonder and whimsy in the everyday and the mundane, and that those things are vital to existing as a human.
 - [Contrapoints](https://m.youtube.com/watch?v=RTRT794IQBg) helped me realise how I want to experience love and helped me learn to respect myself, though nowadays I've realised they're a pretty flawed person sometimes
 - [CJt](https://m.youtube.com/watch?v=UvYcunuF3Eo)[heX](https://m.youtube.com/watch?v=GZg_36utl2w) helped me work out how to exist in the moment and just actually feel things (the first of the two linked videos, second is a better summary but came out much later)
+- [Leon Rosselson](leon-rosselson/) showed me that its okay for life to be messy and imperfect, that we don't need a system to solve every problem and helped me understand what people say when they mean property is theft. He's a bit too radical for me sometimes but that's fine. He's 93 now and only has 3000 or so listeners on spotify. I wish more people knew about his music, there's a lot you can take from it that applies to modern politics.
 
 ### Healthy conversation, thought and debate
 - [Cory Dransfeldt - Just Enough News](https://coryd.dev/posts/2024/just-enough-news)
