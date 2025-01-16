@@ -16,7 +16,7 @@ For a less structured set of views, see the [Scribbled Line](ScribbledLine.html)
 
 [Spanish floods 2024 late october, years rain in less than a day, 200+ died](https://www.bbc.co.uk/news/live/cgr0gj2rkk1t)
 
-[Los angelese fires spread 7km in 5 hours in biggest wildfire in californian records](https://www.bbc.co.uk/news/articles/cg525q2ggl4o)
+[Los angelese fires spread 7km in 5 hours in biggest wildfire in californian records.](https://www.bbc.co.uk/news/articles/cg525q2ggl4o) Called["Costliest natural distaster in US history"](https://www.bbc.co.uk/news/articles/c07g73p4805o) by Biden
 
 ### Climate change is an actual issue that will kill millions if not billions
 To paraphrase "The Uninhabitable Earth" by [David Wallace Wells](https://en.wikipedia.org/wiki/David_Wallace-Wells) (well respected climate journalist)
