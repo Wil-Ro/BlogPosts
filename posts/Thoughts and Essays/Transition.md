@@ -50,7 +50,7 @@ Gap year decision
 
 ## Action / Gap Year
 Swan, voice training on days off when no one is home
-Clothing, makeup, fashion
+Clothing, makeup, fashion - clothing and the environment
 Hormones, NHS, Fertility Preservation (adoption? changing views on it later in life?), deciding if it was a good idea, regret and such? 
 
 Small-world, Cole/Marvin/Devon, 
@@ -60,7 +60,7 @@ Voice training clicking
 HRT lies for a month or so
 GenderGP
 
-Youtubers and Pride (does this go in this section?)
+Youtubers and The transgender issue, Pride (does this go in this section?)
 
 
 ## University
