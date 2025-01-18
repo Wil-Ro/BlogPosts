@@ -1,5 +1,6 @@
 
 # Tech CEOs Are Oil Barons
+> Hello! This is a draft, don't expect too much from it! I have something I want to say with it but its not quite there yet :)
 
 ## The first try, then
 
