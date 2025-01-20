@@ -25,6 +25,8 @@ Clothes
 Window Climbing
 Doubts about reddit
 Art
+Talking to school, people crying at a happy thing
+gender therapist
 
 ## Thoughts arriving
 Coming and going
@@ -32,6 +34,7 @@ Fondness for the start
 Doubts about all of it
 Femininity + Anime Girls
 Who do I want to be?
+Hugboxing
 
 
 ## The Slow Burn
