@@ -7,8 +7,10 @@ This will be kind of a bit blunt and some weird stuff will happen. Not hiding an
 Primary school
 transformation in films
 idols e.g. Eva?
+genie
 
 ## Just Before
+cat hoodie
 Femboy/Trap
 Twitter
 Traa
@@ -29,15 +31,17 @@ Talking to school, people crying at a happy thing
 gender therapist
 
 ## Thoughts arriving
-Coming and going
+Coming and going, during coming and going was, video game characters
 Fondness for the start
 Doubts about all of it
 Femininity + Anime Girls
 Who do I want to be?
-Hugboxing
+is this attention seeking?
 
 
 ## The Slow Burn
+friends she/her'ing me without me asking, they them pissed me off
+daisy + hugboxing
 Mum Crying, going back in the closet
 Transvestism
 Doubts for a long time
@@ -47,6 +51,7 @@ Mermaids
 The want to run away/the want for new friends/will wood
 
 ## End Of The Slow Burn
+4chan
 Tipping point thoughts
 Hormones
 Gap year decision
@@ -68,6 +73,7 @@ Youtubers and The transgender issue, Pride (does this go in this section?)
 
 ## University
 Holyshit I pass (I might have already thought this before?) - womens bathroom
+what percentage of people so i pass to
 Desperation to keep passing
 Hiding from friends, lying, coming out to a few close people, hiding from other trans people!
 Voice sticking/habituating
