@@ -74,3 +74,4 @@ Womens spaces
 
 # Additional notes to make
 thoughts on innocence <- freudian shit
+never really experiencing hate outside of odd looks. Even none from bad friends apart from one or two vague comments about fantasising about being a princess. Then at work its now regular but indirect and innocent
