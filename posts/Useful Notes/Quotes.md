@@ -39,3 +39,4 @@ because while you will invariably conclude that it sucks, your reasons for think
 
 ## Things Friends Have Said
 - "Brains are just machines that have thoughts, we don't really have much of a choice there, what we do have a choice about is what the body does with those thoughts. We exist in the interface between a thinking machine and the physical world" - Bob Vaughan-Williams
+- "Everyone thinks they're a good person" - One of the last things Snake said to me
