@@ -19,7 +19,7 @@ For a less structured set of views, see the [Scribbled Line](ScribbledLine.html)
 [Los angelese fires spread 7km in 5 hours in biggest wildfire in californian records.](https://www.bbc.co.uk/news/articles/cg525q2ggl4o) Called["Costliest natural distaster in US history"](https://www.bbc.co.uk/news/articles/c07g73p4805o) by Biden
 
 ### Climate change is an actual issue that will kill millions if not billions
-To paraphrase "The Uninhabitable Earth" by [David Wallace Wells](https://en.wikipedia.org/wiki/David_Wallace-Wells) (well respected climate journalist)
+The below is a paraphrasing of "The Uninhabitable Earth" by [David Wallace Wells](https://en.wikipedia.org/wiki/David_Wallace-Wells) (climate journalist for the Guardian and New York Times). Its worth noting he's been considered somewhat alarmist though not incorrect.
 > Global warming is not an arctic saga unfolding remotely. It is not exclusively a matter of sea level and coastlines, it is an enveloping crisis sparing no place and no life un-deformed.
 
 > There is no analogue to the scale or scope in human history.
@@ -36,11 +36,15 @@ It will involve:
 
 > At 2 degrees, 400 million more people will suffer from water scarcity. Major cities in the equatorial band will become un-livably hot. Even in northern latitudes, heatwaves will kill thousands each summer. There would be 32 times as many extreme heatwaves in India, each 5 times as long, exposing 93 times more people. 
 
+
 > This is our best case scenario
+
 
 > At 3 degrees, Southern Europe would be in permanent drought, the average drought in central America would last 19 months longer and in the Caribbean 21 months longer. In northern Africa the figure is 60 months longer (5 years). The areas burnt each year by wild fires would double in the Mediterranean and sextuple or more in the US.
 
+
 > At 4 degrees, there would be 8 million more cases of Dengue fever (tropic mosquito virus) each year in Latin America alone and close to annual global flooding crises. There could be 9% more heat-related deaths. Damages from river flooding would grow 30 fold in Bangladesh, 20 fold in India and as much as 60 fold in the uk.
+
 
 > Globally damages could pass $600 trillion - more than twice the wealth that exists in the world today. Conflict and warfare could double.
 
