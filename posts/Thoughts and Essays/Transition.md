@@ -37,6 +37,7 @@ Doubts about all of it
 Femininity + Anime Girls
 Who do I want to be?
 is this attention seeking?
+hard to emphasis how often I would think about it sometimes - then sometimes wouldnt for a few days and would worry its fake
 
 
 ## The Slow Burn
@@ -49,6 +50,7 @@ Being out to friends, disliked pronouns, into the closet with you!
 Trans friends
 Mermaids
 The want to run away/the want for new friends/will wood
+Danced with medication - 0 guidance to the process of medical transition
 
 ## End Of The Slow Burn
 4chan
