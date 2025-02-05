@@ -49,6 +49,7 @@ Being out to friends, disliked pronouns, into the closet with you!
 Trans friends
 Mermaids
 The want to run away/the want for new friends/will wood
+Is it masculine or just human? oh shit femininity isnt real
 
 ## End Of The Slow Burn
 4chan
