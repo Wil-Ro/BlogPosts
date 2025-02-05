@@ -37,6 +37,7 @@ Doubts about all of it
 Femininity + Anime Girls
 Who do I want to be?
 is this attention seeking?
+hard to emphasis how often I would think about it sometimes - then sometimes wouldnt for a few days and would worry its fake
 
 
 ## The Slow Burn
@@ -50,6 +51,7 @@ Trans friends
 Mermaids
 The want to run away/the want for new friends/will wood
 Is it masculine or just human? oh shit femininity isnt real
+Danced with medication - 0 guidance to the process of medical transition
 
 ## End Of The Slow Burn
 4chan
@@ -80,7 +82,7 @@ Hiding from friends, lying, coming out to a few close people, hiding from other 
 Voice sticking/habituating
 Becoming myself, who I am, did I already have this in mind before uni or did it work out here?
 Womens spaces
-
+helping athena
 
 # Additional notes to make
 thoughts on innocence <- freudian shit

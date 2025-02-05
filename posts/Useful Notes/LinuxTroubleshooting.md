@@ -13,3 +13,10 @@ Go to /etc/apk/repositories, add extra ones there. put @name before it to give i
 echo "@testing https://reposito.ry" > /etc/apk/repositories
 apk add package@testing
 ```
+
+## Kernel Shenanigans
+### Removing modules
+You can blacklist kernel modules in /etc/modprobe.d/blacklist.conf
+```
+blacklist modulename
+```
