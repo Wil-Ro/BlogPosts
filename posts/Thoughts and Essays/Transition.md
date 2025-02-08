@@ -83,6 +83,7 @@ Voice sticking/habituating
 Becoming myself, who I am, did I already have this in mind before uni or did it work out here?
 Womens spaces
 helping athena
+representing all trans people
 
 # Additional notes to make
 thoughts on innocence <- freudian shit
