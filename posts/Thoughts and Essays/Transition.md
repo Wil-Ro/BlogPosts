@@ -29,6 +29,7 @@ Doubts about reddit
 Art
 Talking to school, people crying at a happy thing
 gender therapist
+euphoria, how it feels, how I nolonger have it
 
 ## Thoughts arriving
 Coming and going, during coming and going was, video game characters
