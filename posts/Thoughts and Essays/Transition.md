@@ -6,7 +6,7 @@ This will be kind of a bit blunt and some weird stuff will happen. Not hiding an
 ## Before
 Primary school
 transformation in films
-idols e.g. Eva?
+idols e.g. Eva, Maddie from wolfblood, later Ripley from Alien
 genie
 
 ## Just Before
