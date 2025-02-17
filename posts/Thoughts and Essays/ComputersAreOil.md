@@ -1,19 +1,25 @@
 P
-# Tech Barons
+# Computers, Oil and Merit
 > Hello! This is a draft, don't expect too much from it! I have something I want to say with it but its not quite there yet :)
 
 ## The first, second, third, fourth, fifth try: then
 I'm slowly building up my understanding of the world, how its developed and its history. I'm doing so messily, reading a lot of biased books and and making a lot of mistakes. At the moment I think I've developed a neat view of some things though.
 
-Throughout history, people are given power, they can end up mis-using it. The classic cycle is that they abuse it and get worse and worse. The masses, who have more power even if they don't realise it, end off worse and worse, until eventually they have no choice. They rise up and change things. A new person is put in place with new laws and new systems. They understand the truth: that they're working for the masses, and are being *allowed* to hold that position by them. Therefore, they respect it. This slowly is forgotten and the cycle repeats.
+Throughout history, individuals or groups are given power and they can end up mis-using it. The classic cycle is that they abuse it and get worse and worse. The masses (who have more power, even if they don't realise it)
+end off worse and worse, until eventually they have no choice. They rise up and change things. A new person or group is put in place with new laws and new systems. They understand the truth: that they're working for the masses, and are being *allowed* to hold that position by them. Therefore, they respect it. This slowly is forgotten and the cycle repeats.
 
 At some point in this process, those in power have to validate their existence at the top, even when they shouldn't be there. This is a tough task, and normally won't work. But, through [Brandolini's law of bullshit](https://en.wikipedia.org/wiki/Brandolini's_law), eventually some will stick and those that stick will stay around and develop. Its memetics, ideas evolving like creatures do.
 
-America has an especially 
+The modern western world has an especially sticky memetic right now. A really strong idea thats really good at holding people in places of power. It can spread itself into the minds of a large number of people within the masses and cause all sorts of issues. This memetic is the idea of a meritocracy. In this essay I want to talk about that idea and how I view its development, from my personal experiences.
 
-points to make:
+Firstly, before studying meritocracy, we should probably kill it, save any confusion later.
 
-meritocracies arnt real, they are lies made to validate peoples existence at the top, and their egos, and the subjegation of lower classes. This was a lie which fit so naturally in with the development of america it could physically embody it. It spread naturally through all the people in the hierachy. it also allowed a culture that valued this stuff to exist, which forced people into a world where it did matter. oil wasnt that vital but it created a world where it was.
+Meritocracies arn't real, as we will explore later, they are lies made to validate peoples existence at the top, and their egos. The classic argument against them is the point that anyone with any power likely was born into a good position to get that power, or got very lucky. Whilst this is true, there are many other better points to make.
+
+1. A meritocracy assumes merit is a universally measurable unit. Value, merit and even intelligence, are all pretty subjective concepts. A tech guru would flounder in a farming commune and our "greatest minds" have done more damage to the planet than any native american collective.
+2. A meritocracy acts as if those with less merit are less deserving of pleasant lives
+
+Meritocracies arnt real, they are lies made to validate peoples existence at the top, and their egos, and the subjegation of lower classes. This was a lie which fit so naturally in with the development of america it could physically embody it. It spread naturally through all the people in the hierachy. it also allowed a culture that valued this stuff to exist, which forced people into a world where it did matter. oil wasnt that vital but it created a world where it was.
 
 memetic that enforces itself whilst spreading naturally.
 
