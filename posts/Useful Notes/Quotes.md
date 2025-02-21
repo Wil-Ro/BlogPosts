@@ -26,6 +26,7 @@ because while you will invariably conclude that it sucks, your reasons for think
 - "How strange it is to be anything at all" - [Closeted gay christian child in the youtube comments of a twilight video](howStrangeItIs.jpg)
 - "Fix your heart or die" -Gordon from twin peaks to terfs
 - "This is an artist giving their all to their art" -Cronenberg on trans people
+- **"I just wanted to be on the winning team. I liked the feeling of walking with strong men. Straight and boring and small in their ambitions and mean to other people. I laughed along, I almost liked it. I see it now. They were not strong. As if. But you? You are the strongest ones among us. Daring as you do to live. Wholly as you are. While the rest of us go straight."** - Kae Tempest in Love song for the queens, studs, butches, daddies, fags and all the other angels
 - "I declare that the capitalists are wrong. Human nature is to form bonds, to build together. This is why we have societies, technology, language. Do you know that the most developed parts of our brains are the language centers? They are freakishly large, evolved specifically to allow us to collaborate, share knowledge, build an understanding of the world together to collectively survive. We are a social species, and that is our strength." -[Zach Tsiakalis-Brown](https://www.youtube.com/watch?v=hngipmtw28s)/[Zulubo](https://www.zulubo.com/#about)
 
 ### Politics And Making Things

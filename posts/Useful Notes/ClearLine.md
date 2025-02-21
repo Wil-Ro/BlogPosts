@@ -67,10 +67,14 @@ Trade has existed for a very long time but generally until the industrial revolu
 
 A good book for this would be Jeanette Wintersons essay "A loom with a view". A whole book about the idea of capitalism being the default is Mark Fishers "Capitalist Realism"
 
+### Billionaires bad >:(
+[A full takedown of billionaires, the scale of their wealth and how they could be taxed](https://www.teenvogue.com/story/billionaires-should-not-exist)
+
 ## Transgenderism is good
 ### Anyone anti-trans is likely also bigoted in other manners
 
 [James Finn via Medium - LGB is a hate group](https://medium.com/james-finn/dont-be-fooled-by-the-lgb-alliance-7f0838f5b245)
+[The battle for the rights of women directly overlaps with the battle for trans rights](https://www.salon.com/2025/02/10/women-is-a-banned-word-uses-trans-panic-to-strip-rights-from-all-women/)
 
 ### Gender is a social construct
 
@@ -85,6 +89,7 @@ I can argue this on my own without external backup but something to send people 
 Blossom of Bone by Randy Connor](https://faerywolf.com/the-origin-of-the-queer-ones/)
 - just [this whole wiki page](https://en.m.wikipedia.org/wiki/Fa%CA%BBafafine)
 - [Hermaphroditus](https://en.wikipedia.org/wiki/Hermaphroditus) Hermaphrodite greek god. And [Aphroditus](https://en.wikipedia.org/wiki/Aphroditus) Cross-dressing male version of Aphrodite who was known to be nuturing. [Small image with references and info](aphroditus.png)
+- [Guevedoce - entire villages of solely intersex people, all are born as girls, half develop male genitals at puberty](https://en.wikipedia.org/wiki/G%C3%BCevedoce)
 
 ### The Cass Review is not only bigoted but incredibly flawed
 Points taken from TrashFutures "The Devon Report" episode and 
