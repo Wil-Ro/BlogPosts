@@ -85,6 +85,7 @@ Becoming myself, who I am, did I already have this in mind before uni or did it 
 Womens spaces
 helping athena
 representing all trans people
+being there for baby transes, telling them what I would have wanted to know myself
 
 # Additional notes to make
 thoughts on innocence <- freudian shit
