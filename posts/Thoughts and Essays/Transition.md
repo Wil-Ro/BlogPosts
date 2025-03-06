@@ -90,3 +90,4 @@ being there for baby transes, telling them what I would have wanted to know myse
 # Additional notes to make
 thoughts on innocence <- freudian shit
 never really experiencing hate outside of odd looks. Even none from bad friends apart from one or two vague comments about fantasising about being a princess. Then at work its now regular but indirect and innocent
+everyday people dont massively have empathy or ubderstanding for trans experiences even when I share them directly, but my family and others who were close to me while I trabsitioned do, they've seen me go through it all ig?
