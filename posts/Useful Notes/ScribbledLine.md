@@ -54,6 +54,7 @@ ____
 - [Social media for old photos](https://640x480.net/)
 - [Group that writes low power software (suckless.org)](https://suckless.org/)
 - [Solar powered website/blog about eco-tech](https://solar.lowtechmagazine.com/about/the-solar-website/)
+- [Photo album from farming commune](https://www.flickr.com/photos/wheatworm/with/8609393553) [EarthwordHousingCommune](https://earthwormhousingcooperative.org.uk/)
 
 ### Neat programming things
 - [Tetris programming](https://meatfighter.com/tetromino-computer/index.html)
