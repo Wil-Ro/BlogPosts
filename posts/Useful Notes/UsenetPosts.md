@@ -15,3 +15,5 @@ A post I got completely obsessed with for a few weeks back in March of 2024, it 
 
 A description of an advanced form of garbage collection used in military equipment. Funny but also obvious when you think about it.
 
+## [The Usenet Cookbook](https://www.ty-penguin.org.uk/~auj/Usenet.Cookbook/)
+Not deeply related but a useful list of interesting recipes a friend of a friend maintains. Also see [his smaller list](https://www.ty-penguin.org.uk/~auj/Usenet.Cookbook/).
