@@ -61,6 +61,7 @@ ____
 - [Internet archiologist](http://art.teleportacia.org/olia.html)
 - [Bikeshedding](https://bikeshed.com/)
 - [OurPaint - FOSS Node based painting software](https://www.wellobserve.com/index.php?post=20221222155743)
+- [Egotistical but funny rant about low level programming](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
 
 ### Stories where programs defy reality
 - [Email wont go further than 500 miles](500-miles.txt)
