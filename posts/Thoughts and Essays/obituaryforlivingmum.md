@@ -1,13 +1,13 @@
 
 # An Obituary For My Living Mother
 
-My Mum is amazing, and I have things I want to say about her, and I want to say them now. People wait too long to say these things and only good things can come from sharing pleasant thoughts about people. Im a firm believe that I don't share your love for someone at their funeral, I'll share it in every birthday card I give them, I'll interrupt conversations and just flat out tell them. So, once again, I'm saying what I want to say now, and here.
+My Mum is amazing, and I have things I want to say about her, and I want to say them now. People wait too long to say these things and only good things can come from sharing pleasant thoughts about people. Im a firm believer that I don't share your love for someone at their funeral, I'll share it in every birthday card I give them and I'll interrupt conversations to just flat out tell them. So, once again, I'm saying what I want to say now, and here.
 
-We all have the same amount of time here, we're all always learning. We all develop the same quantity of knowledge over time. Its just the matter of how we recognise and value that knowledge. Someone with severe disabilities is still learning just as much, they're just learning how to work in their own bodies in a world that doesn't teach them. You get put in their body, you'd take years to become as talented as them without the knowledge they've developed.
+We all live the human experience. We're all always learning. We all develop the same quantity of knowledge over time. Its just the matter of how we recognise and value that knowledge. Someone with severe disabilities is still learning just as much, they're just learning how to work in their own bodies in a world that doesn't teach them. You get put in their body, you'd take years to become as talented as them without the knowledge they've developed.
 
 At my Nanna and Taid's (welsh grandparent)'s funerals, my mother gave talks. Both each to the same tune of "my parents didn't do anything massively recognised or that changed the world, but they cared for their own, and that was massive". Or in a similar vein "they werent the most skilled at anything in particular, but they were handy, cared for us, repaired our cars and dedicated themselves to raising us". 
 
-People talk abut this in a weird way, like, its deserving of recognition, but we have to cede that there are greater people.
+People talk about this in a weird way, like, its deserving of recognition, but we have to cede that there are greater people.
 
 Nah
 
@@ -22,10 +22,11 @@ Stop valuing tech barons, politicians and engineers. Value my mum, someone who's
 - Started a local [scouting explorers](https://www.scouts.org.uk/explorers) group, which she still helps run to this day
 - Started and maintained a local childrens choir for 4 years
 - Provided honest emotional support and advice throughout mine and my siblings struggles as-well as my transition, something she was unsure of but chose to trust me on
-- Held sole responsibility for her parents care during their ageing, their deaths and their funerals
+- Held sole responsibility for her parents care during their ageing, their deaths and their funerals, giving up easily days worth of time a week for them
 - Supported my dad through his little struggles and career changes
+- Does most of the work fighting the enduring entropy of our house
 - To this day, constantly checks in on me and my life even if I'm terrible at staying in contact with her
 
 We are all the best at living our lives and we need to start realising and respecting that.
 
-Even if this isn't true, the truth of an idea doesn't always correlate to its usefulness.
+Even if this isn't true, the usefulness of an idea doesn't always correlate to its truth.
