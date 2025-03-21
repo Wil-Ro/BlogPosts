@@ -29,6 +29,7 @@ This is my scribbled line, its a collection of things I find interesting or want
 - [The reckless, infinite scope of web browsers](https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html)
 - [Fucking webmaster](https://justinjackson.ca/webmaster/)
 - [Machines of Loving Grace by Reagan Bird](https://www.clunyjournal.com/p/machines-of-loving-grace) - The utter evisceration of one of my core beliefs through empathetic story-telling
+- [Programming is forgetting](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/) A really amazing critique/rethinking of hacker culture
 
 ### The value of community
 - [Transcender manifesto](https://digital-anthropology.me/2019/03/13/a-transcender-manifesto-for-a-world-beyond-capitalism-a-seed/)
